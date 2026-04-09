@@ -17,8 +17,8 @@
 ██║████╗  ██║ ██╔════╝██╔═══██╗ ██╔════╝ ████╗  ██║██║╚══██╔══╝██╔═══██╗
 ██║██╔██╗ ██║██║      ██║     ██║██║  ███╗██╔██╗ ██║██║    ██║   ██║    ██║
 ██║██║╚██╗██║██║      ██║    ██║ ██║   ██║██║╚██╗██║██║    ██║   ██║   ██║
-██║██║ ╚████║╚██████╗╚██████╔╝ ╚██████╔╝██║ ╚████║██║    ██║   ╚██████╔╝
-╚═╝╚═╝  ╚═══╝ ╚═════╝ ╚═════╝   ╚═════╝ ╚═╝  ╚═══╝╚═╝    ╚═╝    ╚═════╝
+██║██║ ╚████║╚██████╗╚██████╔╝ ╚██████╔╝ ██║ ╚████║██║   ██║   ╚██████╔╝
+╚═╝╚═╝  ╚═══╝ ╚═════╝ ╚═════╝   ╚═════╝  ╚═╝  ╚═══╝╚═╝    ╚═╝    ╚═════╝
 
 ```
 
@@ -38,28 +38,6 @@
   </a>
   <a href="https://youtube.com/@incognito-dev07">
     <img src="https://img.shields.io/badge/-YOUTUBE-FF0000?style=flat-square&logo=youtube&logoColor=white" />
-  </a>
-</div>
-
----
-
-## FEATURED PROJECTS
-
-<div align="center">
-  <a href="https://github.com/incognito-dev07/media-saver">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=incognito-dev07&repo=media-saver&theme=dark&title_color=9d4edd&icon_color=9d4edd&text_color=8b949e&border_color=30363d&bg_color=0d1117&hide_border=false" />
-  </a>
-  <a href="https://github.com/incognito-dev07/venus-cbt">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=incognito-dev07&repo=venus-cbt&theme=dark&title_color=9d4edd&icon_color=9d4edd&text_color=8b949e&border_color=30363d&bg_color=0d1117&hide_border=false" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/incognito-dev07/termux-guide">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=incognito-dev07&repo=termux-guide&theme=dark&title_color=9d4edd&icon_color=9d4edd&text_color=8b949e&border_color=30363d&bg_color=0d1117&hide_border=false" />
-  </a>
-  <a href="https://github.com/incognito-dev07/personal-portolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=incognito-dev07&repo=personal-portolio&theme=dark&title_color=9d4edd&icon_color=9d4edd&text_color=8b949e&border_color=30363d&bg_color=0d1117&hide_border=false" />
   </a>
 </div>
 
