@@ -1,6 +1,5 @@
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=180&section=header&text=Incognito%20Dev&fontSize=45&fontColor=9d4edd&animation=fadeIn&fontAlignY=32" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=Incognito%20Dev&fontSize=45&fontColor=9d4edd&animation=fadeIn&fontAlignY=35" />
 </div>
 
 <div align="center">
@@ -10,17 +9,14 @@
 <br>
 
 <div align="center">
-  
-```
-
+  <pre style="font-family: monospace; line-height: 1.2; color: #9d4edd;">
 ██╗███╗   ██╗ ██████╗ ██████╗  ██████╗ ███╗   ██╗██╗████████╗ ██████╗ 
 ██║████╗  ██║██╔════╝██╔═══██╗██╔════╝ ████╗  ██║██║╚══██╔══╝██╔═══██╗
 ██║██╔██╗ ██║██║     ██║   ██║██║  ███╗██╔██╗ ██║██║   ██║   ██║   ██║
 ██║██║╚██╗██║██║     ██║   ██║██║   ██║██║╚██╗██║██║   ██║   ██║   ██║
 ██║██║ ╚████║╚██████╗╚██████╔╝╚██████╔╝██║ ╚████║██║   ██║   ╚██████╔╝
-╚═╝╚═╝  ╚═══╝ ╚═════╝ ╚═════╝  ╚═════╝ ╚═╝  ╚═══╝╚═╝   ╚═╝    ╚═════╝
-
-```
+╚═╝╚═╝  ╚═══╝ ╚═════╝ ╚═════╝  ╚═════╝ ╚═╝  ╚═══╝╚═╝   ╚═╝    ╚═════╝ 
+  </pre>
 </div>
 
 <div align="center">
@@ -123,19 +119,21 @@
 
 ---
 
-## Identity
+## Engineering Philosophy
 
 ```javascript
-const incognito = {
-    name: "Incognito Dev",
-    role: "Full-Stack Developer",
-    stack: ["React", "Node.js", "Express", "MySQL", "MongoDB", "TailwindCSS"],
-    currentFocus: "Building scalable web applications",
-    learning: ["TypeScript", "Next.js", "AWS"],
-    contact: {
-        whatsapp: "+2349065168872",
-        facebook: "Incog Dev",
-        youtube: "@incognito-dev07",
-        github: "@incognito-dev07"
-    }
+const Incognito = {
+    identity:      ["Full-Stack Developer", "JavaScript Specialist", "Python Enthusiast"],
+    github:        "@incognito-dev07",
+    youtube:       "@incognito-dev07",
+    currentFocus:  "Building scalable web applications",
+    principles: [
+        "Write clean, maintainable code — refactor ruthlessly.",
+        "User experience is not optional. Fast, responsive, intuitive.",
+        "Learn daily. Tech evolves, so should you.",
+        "Document everything. Future you will thank present you.",
+        "Open source what you can. Give back to the community.",
+    ],
+    learning:      ["TypeScript", "Next.js", "AWS", "Docker"],
+    openTo:        ["Freelance Projects", "Open Source Collab", "Tech Writing"],
 };
