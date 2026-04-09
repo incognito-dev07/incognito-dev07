@@ -1,9 +1,46 @@
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=Incognito%20Dev&fontSize=45&fontColor=9d4edd&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20JavaScript%20Specialist%20%7C%20Python%20Enthusiast&descSize=18&descColor=9d4edd&descAlignY=55" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=180&section=header&text=Incognito%20Dev&fontSize=45&fontColor=9d4edd&animation=fadeIn&fontAlignY=32" />
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=500&color=9d4edd&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;JavaScript+Specialist;Python+Enthusiast" />
+</div>
+
+<br>
+
+<div align="center">
+  
+```
+
+██╗███╗   ██╗ ██████╗ ██████╗  ██████╗ ███╗   ██╗██╗████████╗ ██████╗ 
+██║████╗  ██║██╔════╝██╔═══██╗██╔════╝ ████╗  ██║██║╚══██╔══╝██╔═══██╗
+██║██╔██╗ ██║██║     ██║   ██║██║  ███╗██╔██╗ ██║██║   ██║   ██║   ██║
+██║██║╚██╗██║██║     ██║   ██║██║   ██║██║╚██╗██║██║   ██║   ██║   ██║
+██║██║ ╚████║╚██████╗╚██████╔╝╚██████╔╝██║ ╚████║██║   ██║   ╚██████╔╝
+╚═╝╚═╝  ╚═══╝ ╚═════╝ ╚═════╝  ╚═════╝ ╚═╝  ╚═══╝╚═╝   ╚═╝    ╚═════╝
+
+```
 </div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=incognito-dev07&label=PROFILE+VIEWS&style=flat-square&color=9d4edd" />
+  <img src="https://img.shields.io/github/followers/incognito-dev07?label=FOLLOWERS&style=flat-square&color=9d4edd" />
+</div>
+
+<div align="center">
+  <a href="https://github.com/incognito-dev07">
+    <img src="https://img.shields.io/badge/-GITHUB-181717?style=flat-square&logo=github&logoColor=white" />
+  </a>
+  <a href="https://wa.me/2349065168872">
+    <img src="https://img.shields.io/badge/-WHATSAPP-25D366?style=flat-square&logo=whatsapp&logoColor=white" />
+  </a>
+  <a href="https://facebook.com/IncogDev">
+    <img src="https://img.shields.io/badge/-FACEBOOK-1877F2?style=flat-square&logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://youtube.com/@incognito-dev07">
+    <img src="https://img.shields.io/badge/-YOUTUBE-FF0000?style=flat-square&logo=youtube&logoColor=white" />
+  </a>
 </div>
 
 ---
@@ -32,30 +69,32 @@
 
 ## Tech Stack
 
-### Frontend
-![React](https://img.shields.io/badge/-REACT-61DAFB?style=flat-square&logo=react&logoColor=black)
-![JavaScript](https://img.shields.io/badge/-JAVASCRIPT-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+<div align="center">
+  
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/-TAILWIND-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-### Backend
+![JavaScript](https://img.shields.io/badge/-JAVASCRIPT-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-REACT-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-NODE.JS-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/-EXPRESS-000000?style=flat-square&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/-PYTHON-3776AB?style=flat-square&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-
-### Database
-![PostgreSQL](https://img.shields.io/badge/-POSTGRESQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MONGODB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Supabase](https://img.shields.io/badge/-SUPABASE-3ECF8E?style=flat-square&logo=supabase&logoColor=black)
+![Firebase](https://img.shields.io/badge/-FIREBASE-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![MySQL](https://img.shields.io/badge/-MYSQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-### Tools & Deployment
+![MongoDB](https://img.shields.io/badge/-MONGODB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Python](https://img.shields.io/badge/-PYTHON-3776AB?style=flat-square&logo=python&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-TAILWIND-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Git](https://img.shields.io/badge/-GIT-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/-DOCKER-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/-POSTMAN-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GITHUB-181717?style=flat-square&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/-VERCEL-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/-RENDER-46E3B7?style=flat-square&logo=render&logoColor=black)
+![EJS](https://img.shields.io/badge/-EJS-B4CA65?style=flat-square&logo=ejs&logoColor=black)
+![Jest](https://img.shields.io/badge/-JEST-C21325?style=flat-square&logo=jest&logoColor=white)
+![ESLint](https://img.shields.io/badge/-ESLINT-4B32C3?style=flat-square&logo=eslint&logoColor=white)
+![JWT](https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![JSON](https://img.shields.io/badge/-JSON-000000?style=flat-square&logo=json&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLITE-003B57?style=flat-square&logo=sqlite&logoColor=white)
+
+</div>
 
 ---
 
@@ -88,12 +127,15 @@
 
 ```javascript
 const incognito = {
+    name: "Incognito Dev",
     role: "Full-Stack Developer",
-    stack: {
-        frontend: ["React", "TailwindCSS", "JavaScript"],
-        backend: ["Node.js", "Express", "Python", "PHP"],
-        database: ["PostgreSQL", "MongoDB", "MySQL"],
-    },
+    stack: ["React", "Node.js", "Express", "MySQL", "MongoDB", "TailwindCSS"],
     currentFocus: "Building scalable web applications",
     learning: ["TypeScript", "Next.js", "AWS"],
+    contact: {
+        whatsapp: "+2349065168872",
+        facebook: "Incog Dev",
+        youtube: "@incognito-dev07",
+        github: "@incognito-dev07"
+    }
 };
