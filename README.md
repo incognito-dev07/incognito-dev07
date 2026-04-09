@@ -1,4 +1,3 @@
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=12,14,15&section=header&text=Incognito%20Dev&fontSize=45&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20JavaScript%20Specialist%20%7C%20API%20Developer&descSize=18&descAlignY=55" />
 </div>
@@ -10,24 +9,19 @@
 <br>
 
 <div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Monoton&size=50&duration=1&pause=999999&color=9d4edd&center=true&vCenter=true&width=800&lines=%3C%2F%3E" />
+</div>
 
-```
-
-██╗███╗   ██╗  ██████╗ ██████╗   ██████╗  ███╗   ██╗██╗████████╗ ██████╗ 
-██║████╗  ██║ ██╔════╝██╔═══██╗ ██╔════╝ ████╗  ██║██║╚══██╔══╝██╔═══██╗
-██║██╔██╗ ██║██║      ██║     ██║██║  ███╗██╔██╗ ██║██║    ██║   ██║    ██║
-██║██║╚██╗██║██║      ██║    ██║ ██║   ██║██║╚██╗██║██║    ██║   ██║   ██║
-██║██║ ╚████║╚██████╗╚██████╔╝ ╚██████╔╝ ██║ ╚████║██║   ██║   ╚██████╔╝
-╚═╝╚═╝  ╚═══╝ ╚═════╝ ╚═════╝   ╚═════╝  ╚═╝  ╚═══╝╚═╝    ╚═╝    ╚═════╝
-
-```
-
-</div><br>
+<br>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=incognito-dev07&label=PROFILE+VIEWS&style=flat-square&color=9d4edd" />
   <img src="https://img.shields.io/github/followers/incognito-dev07?label=FOLLOWERS&style=flat-square&color=9d4edd" />
-</div><br>
+  <img src="https://img.shields.io/github/stars/incognito-dev07?affiliations=OWNER%2CCOLLABORATOR&label=STARS&style=flat-square&color=9d4edd" />
+  <img src="https://img.shields.io/badge/-PUBLIC%20REPOS-9d4edd?style=flat-square&logo=github&logoColor=white" />
+</div>
+
+<br>
 
 <div align="center">
   <a href="https://wa.me/2349065168872">
@@ -43,14 +37,14 @@
 
 ---
 
-## TECH STACK
+## 🛠️ TECH STACK
 
 <div align="center">
   
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JAVASCRIPT-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-REACT-61DAFB?style=flat-square&logo=react&logoColor=black)
+![React](https://img.shields.io/badge/-REACT-61DAFB?style=flat-square&logo=react&logoColor=252525)
 ![Node.js](https://img.shields.io/badge/-NODE.JS-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/-EXPRESS-000000?style=flat-square&logo=express&logoColor=white)
 ![Supabase](https://img.shields.io/badge/-SUPABASE-3ECF8E?style=flat-square&logo=supabase&logoColor=black)
@@ -73,7 +67,13 @@
 
 ---
 
-## DEVELOPER METRICS
+## 📊 DEVELOPER METRICS
+
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=incognito-dev07&show_icons=true&theme=dark&title_color=9d4edd&icon_color=9d4edd&text_color=8b949e&border_color=30363d&bg_color=0d1117&hide_border=false&count_private=true&include_all_commits=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=incognito-dev07&layout=compact&theme=dark&title_color=9d4edd&text_color=8b949e&border_color=30363d&bg_color=0d1117&hide_border=false" />
+</div>
+
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=incognito-dev07&theme=dark&background=0d1117&border=30363d&stroke=9d4edd&ring=9d4edd&fire=9d4edd&currStreakNum=8b949e&sideNums=8b949e&currStreakLabel=9d4edd&sideLabels=9d4edd&dates=8b949e&hide_border=false" />
 </div>
@@ -92,7 +92,7 @@
 
 ---
 
-## ENGINEERING PHILOSOPHY 
+## ⚡ ENGINEERING PHILOSOPHY
 
 ```javascript
 const Incognito = {
