@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=12,14,15&section=header&text=Incognito%20Dev&fontSize=45&animation=fadeIn&fontAlignY=35&desc=MERN-Stack%20Developer%20%7C%20JavaScript%20Specialist%20%7C%20API%20Developer&descSize=18&descAlignY=55" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=12,14,15&section=header&text=Incognito%20Dev&fontSize=45&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20JavaScript%20Specialist%20%7C%20API%20Developer&descSize=18&descAlignY=55" />
 </div>
 
 <div align="center">
@@ -22,14 +22,17 @@
 
 ```
 
-</div>
+</div><br>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=incognito-dev07&label=PROFILE+VIEWS&style=flat-square&color=9d4edd" />
   <img src="https://img.shields.io/github/followers/incognito-dev07?label=FOLLOWERS&style=flat-square&color=9d4edd" />
-</div>
+</div><br>
 
 <div align="center">
+  <a href="https://wa.me/2349065168872">
+    <img src="https://img.shields.io/badge/-TIKTOK-060606?style=flat-square&logo=tiktok&logoColor=white" />
+  </a>
   <a href="https://wa.me/2349065168872">
     <img src="https://img.shields.io/badge/-WHATSAPP-25D366?style=flat-square&logo=whatsapp&logoColor=white" />
   </a>
