@@ -82,7 +82,7 @@
 
 ---
 
-## Contribution Snake
+## Contribution Trail
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/incognito-dev07/incognito-dev07/output/github-contribution-grid-snake-dark.svg" />
