@@ -1,36 +1,32 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,25,26&height=200&section=header&text=Incognito%20Dev&fontSize=45&fontColor=9d4edd&animation=fadeIn" />
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=Incognito%20Dev&fontSize=45&fontColor=9d4edd&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20JavaScript%20Specialist%20%7C%20Python%20Enthusiast&descSize=18&descColor=9d4edd&descAlignY=55" />
+</div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=3000&color=9d4edd&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;JavaScript+Specialist;Mobile+App+Developer" />
-</p>
-
-<p align="center">
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=incognito-dev07&label=PROFILE+VIEWS&style=flat-square&color=9d4edd" />
-</p>
+</div>
 
 ---
 
 ## Featured Projects
 
-<p align="center">
+<div align="center">
   <a href="https://github.com/incognito-dev07/media-saver">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=incognito-dev07&repo=media-saver&theme=dark&title_color=9d4edd&icon_color=9d4edd&border_color=9d4edd&bg_color=0d1117&hide_border=false" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=incognito-dev07&repo=media-saver&theme=dark&title_color=9d4edd&icon_color=9d4edd&text_color=8b949e&border_color=30363d&bg_color=0d1117&hide_border=false" />
   </a>
   <a href="https://github.com/incognito-dev07/venus-cbt">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=incognito-dev07&repo=venus-cbt&theme=dark&title_color=9d4edd&icon_color=9d4edd&border_color=9d4edd&bg_color=0d1117&hide_border=false" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=incognito-dev07&repo=venus-cbt&theme=dark&title_color=9d4edd&icon_color=9d4edd&text_color=8b949e&border_color=30363d&bg_color=0d1117&hide_border=false" />
   </a>
-</p>
+</div>
 
-<p align="center">
+<div align="center">
   <a href="https://github.com/incognito-dev07/termux-guide">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=incognito-dev07&repo=termux-guide&theme=dark&title_color=9d4edd&icon_color=9d4edd&border_color=9d4edd&bg_color=0d1117&hide_border=false" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=incognito-dev07&repo=termux-guide&theme=dark&title_color=9d4edd&icon_color=9d4edd&text_color=8b949e&border_color=30363d&bg_color=0d1117&hide_border=false" />
   </a>
   <a href="https://github.com/incognito-dev07/personal-portolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=incognito-dev07&repo=personal-portolio&theme=dark&title_color=9d4edd&icon_color=9d4edd&border_color=9d4edd&bg_color=0d1117&hide_border=false" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=incognito-dev07&repo=personal-portolio&theme=dark&title_color=9d4edd&icon_color=9d4edd&text_color=8b949e&border_color=30363d&bg_color=0d1117&hide_border=false" />
   </a>
-</p>
+</div>
 
 ---
 
@@ -38,9 +34,6 @@
 
 ### Frontend
 ![React](https://img.shields.io/badge/-REACT-61DAFB?style=flat-square&logo=react&logoColor=black)
-![React Native](https://img.shields.io/badge/-REACT%20NATIVE-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Flutter](https://img.shields.io/badge/-FLUTTER-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/-DART-0175C2?style=flat-square&logo=dart&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JAVASCRIPT-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -55,6 +48,7 @@
 ### Database
 ![PostgreSQL](https://img.shields.io/badge/-POSTGRESQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MONGODB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MYSQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 ### Tools & Deployment
 ![Git](https://img.shields.io/badge/-GIT-F05032?style=flat-square&logo=git&logoColor=white)
@@ -67,26 +61,26 @@
 
 ## Developer Metrics
 
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=incognito-dev07&show_icons=true&theme=dark&title_color=9d4edd&icon_color=9d4edd&text_color=ffffff&border_color=9d4edd&bg_color=0d1117&hide_border=false&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=incognito-dev07&layout=compact&theme=dark&title_color=9d4edd&text_color=ffffff&border_color=9d4edd&bg_color=0d1117&hide_border=false" />
-</p>
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=incognito-dev07&show_icons=true&theme=dark&title_color=9d4edd&icon_color=9d4edd&text_color=8b949e&border_color=30363d&bg_color=0d1117&hide_border=false&count_private=true&include_all_commits=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=incognito-dev07&layout=compact&theme=dark&title_color=9d4edd&text_color=8b949e&border_color=30363d&bg_color=0d1117&hide_border=false" />
+</div>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=incognito-dev07&theme=dark&background=0d1117&border=9d4edd&stroke=9d4edd&ring=9d4edd&fire=9d4edd&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=9d4edd&sideLabels=9d4edd&dates=9d4edd&hide_border=false" />
-</p>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=incognito-dev07&theme=dark&background=0d1117&border=30363d&stroke=9d4edd&ring=9d4edd&fire=9d4edd&currStreakNum=8b949e&sideNums=8b949e&currStreakLabel=9d4edd&sideLabels=9d4edd&dates=8b949e&hide_border=false" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=incognito-dev07&theme=github-dark&bg_color=0d1117&color=9d4edd&line=9d4edd&point=9d4edd&area=true&area_color=9d4edd&hide_border=false&border_color=9d4edd" />
-</p>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=incognito-dev07&theme=github-dark&bg_color=0d1117&color=9d4edd&line=9d4edd&point=9d4edd&area=true&area_color=9d4edd&hide_border=false&border_color=30363d" />
+</div>
 
 ---
 
 ## Contribution
 
-<p align="center">
+<div align="center">
   <img src="https://raw.githubusercontent.com/incognito-dev07/incognito-dev07/output/github-contribution-grid-snake-dark.svg" />
-</p>
+</div>
 
 ---
 
@@ -96,10 +90,10 @@
 const incognito = {
     role: "Full-Stack Developer",
     stack: {
-        frontend: ["React", "React Native", "Flutter", "TailwindCSS"],
+        frontend: ["React", "TailwindCSS", "JavaScript"],
         backend: ["Node.js", "Express", "Python", "PHP"],
-        database: ["PostgreSQL", "MongoDB"],
+        database: ["PostgreSQL", "MongoDB", "MySQL"],
     },
-    currentFocus: "Building scalable web & mobile applications",
+    currentFocus: "Building scalable web applications",
     learning: ["TypeScript", "Next.js", "AWS"],
 };
