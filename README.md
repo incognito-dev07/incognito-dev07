@@ -1,9 +1,9 @@
 ```markdown
-# Your Name Here
+# Osasan Olusola
 
 **Full-Stack Developer | JavaScript Specialist | Python Enthusiast**
 
-[![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE+VIEWS&style=flat-square&color=blue)](https://github.com/YOUR_USERNAME)
+[![Profile Views](https://komarev.com/ghpvc/?username=incognito-dev07&label=PROFILE+VIEWS&style=flat-square&color=blue)](https://github.com/incognito-dev07)
 
 ---
 
@@ -38,17 +38,17 @@
 
 <!-- GitHub Stats Card -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=incognito-dev07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
 </p>
 
 <!-- GitHub Streak -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=incognito-dev07&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <!-- Top Languages -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=incognito-dev07&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
@@ -102,14 +102,6 @@ https://img.shields.io/badge/-GITHUB-181717?style=for-the-badge&logo=github&logo
 https://img.shields.io/badge/-LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white
 https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=x&logoColor=white
 https://img.shields.io/badge/-EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white
-
----
-
-🎯 Currently Working On
-
-· 🔨 Building a [describe your current project]
-· 📚 Learning [technology you're learning]
-· 🤝 Open to collaborate on Open Source Projects
 
 ---
 
