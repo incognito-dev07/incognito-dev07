@@ -1,13 +1,13 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:020617&height=200&section=header&text=Incognito%20Dev&fontSize=45&fontColor=38bdf8&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:020617&height=200&section=header&text=Incognito%20Dev&fontSize=45&fontColor=9d4edd&animation=fadeIn" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&color=38bdf8&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;JavaScript+Specialist;Python+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&color=9d4edd&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;JavaScript+Specialist;Python+Enthusiast" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=incognito-dev07&label=PROFILE+VIEWS&style=flat-square&color=38bdf8" />
+  <img src="https://komarev.com/ghpvc/?username=incognito-dev07&label=PROFILE+VIEWS&style=flat-square&color=9d4edd" />
 </p>
 
 ---
@@ -16,19 +16,19 @@
 
 <p align="center">
   <a href="https://github.com/incognito-dev07/media-saver">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=incognito-dev07&repo=YOUR-REPO-1&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=incognito-dev07&repo=media-saver&theme=transparent&title_color=ffffff&text_color=c1c1c1&icon_color=9d4edd&bg_color=9d4edd&hide_border=true" />
   </a>
   <a href="https://github.com/incognito-dev07/venus-cbt">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=incognito-dev07&repo=YOUR-REPO-2&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=incognito-dev07&repo=venus-cbt&theme=transparent&title_color=ffffff&text_color=c1c1c1&icon_color=9d4edd&bg_color=9d4edd&hide_border=true" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/incognito-dev07/termux-guide">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=incognito-dev07&repo=YOUR-REPO-3&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=incognito-dev07&repo=termux-guide&theme=transparent&title_color=ffffff&text_color=c1c1c1&icon_color=9d4edd&bg_color=9d4edd&hide_border=true" />
   </a>
   <a href="https://github.com/incognito-dev07/personal-portolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=incognito-dev07&repo=YOUR-REPO-4&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=incognito-dev07&repo=personal-portolio&theme=transparent&title_color=ffffff&text_color=c1c1c1&icon_color=9d4edd&bg_color=9d4edd&hide_border=true" />
   </a>
 </p>
 
@@ -64,12 +64,16 @@
 ## Developer Metrics
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=incognito-dev07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=incognito-dev07&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=incognito-dev07&show_icons=true&theme=transparent&title_color=ffffff&text_color=c1c1c1&icon_color=9d4edd&bg_color=9d4edd&hide_border=true&count_private=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=incognito-dev07&layout=compact&theme=transparent&title_color=ffffff&text_color=c1c1c1&bg_color=9d4edd&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=incognito-dev07&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=incognito-dev07&theme=transparent&background=9d4edd&border=9d4edd&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=c1c1c1&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=incognito-dev07&theme=github-compact&bg_color=9d4edd&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" />
 </p>
 
 ---
