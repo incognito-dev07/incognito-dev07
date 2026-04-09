@@ -37,7 +37,7 @@
 
 ---
 
-## 🛠️ TECH STACK
+## Tech Stack
 
 <div align="center">
   
@@ -67,12 +67,7 @@
 
 ---
 
-## 📊 DEVELOPER METRICS
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=incognito-dev07&show_icons=true&theme=dark&title_color=9d4edd&icon_color=9d4edd&text_color=8b949e&border_color=30363d&bg_color=0d1117&hide_border=false&count_private=true&include_all_commits=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=incognito-dev07&layout=compact&theme=dark&title_color=9d4edd&text_color=8b949e&border_color=30363d&bg_color=0d1117&hide_border=false" />
-</div>
+## Developer Metrics
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=incognito-dev07&theme=dark&background=0d1117&border=30363d&stroke=9d4edd&ring=9d4edd&fire=9d4edd&currStreakNum=8b949e&sideNums=8b949e&currStreakLabel=9d4edd&sideLabels=9d4edd&dates=8b949e&hide_border=false" />
@@ -84,7 +79,7 @@
 
 ---
 
-## 🐍 CONTRIBUTION SNAKE
+## Contribution Snake
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/incognito-dev07/incognito-dev07/output/github-contribution-grid-snake-dark.svg" />
@@ -92,7 +87,7 @@
 
 ---
 
-## ⚡ ENGINEERING PHILOSOPHY
+## Engineering Philosophy
 
 ```javascript
 const Incognito = {
