@@ -18,7 +18,7 @@
   <img src="https://komarev.com/ghpvc/?username=incognito-dev07&label=PROFILE+VIEWS&style=flat-square&color=9d4edd" />
   <img src="https://img.shields.io/github/followers/incognito-dev07?label=FOLLOWERS&style=flat-square&color=9d4edd" />
   <img src="https://img.shields.io/github/stars/incognito-dev07?affiliations=OWNER%2CCOLLABORATOR&label=STARS&style=flat-square&color=9d4edd" />
-  <img src="https://img.shields.io/badge/-PUBLIC%20REPOS-9d4edd?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/-PUBLIC%20REPOS-001117?style=flat-square&logo=github&logoColor=white" />
 </div>
 
 <br>
@@ -70,12 +70,15 @@
 ## Developer Metrics
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=incognito-dev07&theme=dark&background=0d1117&border=30363d&stroke=9d4edd&ring=9d4edd&fire=9d4edd&currStreakNum=8b949e&sideNums=8b949e&currStreakLabel=9d4edd&sideLabels=9d4edd&dates=8b949e&hide_border=false" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=incognito-dev07&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF&sideLabels=C9D1D9" alt="GitHub Streak" width="60%" />
 </div>
 
+<br/>
+
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=incognito-dev07&theme=github-dark&bg_color=0d1117&color=9d4edd&line=9d4edd&point=9d4edd&area=true&area_color=9d4edd&hide_border=false&border_color=30363d" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=incognito-dev07&theme=tokyo-night&bg_color=0D1117&hide_border=true&color=58A6FF&line=58A6FF&point=FF6B6B&area=true" alt="Contribution Graph" width="100%" />
 </div>
+
 
 ---
 
@@ -103,3 +106,14 @@ const Incognito = {
     learning:      ["TypeScript", "Next.js", "AWS", "Docker"],
     openTo:        ["Freelance Projects", "Open Source Collab", "Tech Writing"],
 };
+```
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=fadeIn" alt="Footer" />
+</div>
+
+<div align="center">
+  <sub> Building the decentralized future, one commit at a time.</sub>
+</div>
