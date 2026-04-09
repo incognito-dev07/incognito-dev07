@@ -2,7 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:020617&height=200&section=header&text=Incognito%20Dev&fontSize=45&fontColor=38bdf8&animation=fadeIn" />
 </p>
 
-<!-- TYPING TEXT -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&color=38bdf8&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;JavaScript+Specialist;Python+Enthusiast" />
 </p>
@@ -13,7 +12,7 @@
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <p align="center">
   <a href="https://github.com/incognito-dev07/media-saver">
@@ -35,7 +34,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Frontend
 ![React](https://img.shields.io/badge/-REACT-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -62,7 +61,7 @@
 
 ---
 
-## 📊 Developer Metrics
+## Developer Metrics
 
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=incognito-dev07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
@@ -75,7 +74,7 @@
 
 ---
 
-## 🐍 Contribution Snake
+## Contribution
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/incognito-dev07/incognito-dev07/output/github-contribution-grid-snake.svg" />
@@ -83,7 +82,7 @@
 
 ---
 
-## 💻 Identity
+## Identity
 
 ```javascript
 const incognito = {
