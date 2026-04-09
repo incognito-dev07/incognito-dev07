@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=12,14,15&section=header&text=Incognito%20Dev&fontSize=45&fontColor=9d4edd&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20JavaScript%20Specialist%20%7C%20Python%20Enthusiast&descSize=18&descColor=8b949e&descAlignY=55" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=12,14,15&section=header&text=Incognito%20Dev&fontSize=45&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20JavaScript%20Specialist%20%7C%20Python%20Enthusiast&descSize=18&descAlignY=55" />
 </div>
 
 <div align="center">
@@ -43,7 +43,7 @@
 
 ---
 
-## 📌 Featured Projects
+## FEATURED PROJECTS
 
 <div align="center">
   <a href="https://github.com/incognito-dev07/media-saver">
@@ -65,7 +65,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## TECH STACK
 
 <div align="center">
   
@@ -95,7 +95,7 @@
 
 ---
 
-## 📊 Developer Metrics
+## DEVELOPER METRICS
 
 <div align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=incognito-dev07&show_icons=true&theme=dark&title_color=9d4edd&icon_color=9d4edd&text_color=8b949e&border_color=30363d&bg_color=0d1117&hide_border=false&count_private=true&include_all_commits=true" />
@@ -112,7 +112,7 @@
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 CONTRIBUTION SNAKE
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/incognito-dev07/incognito-dev07/output/github-contribution-grid-snake-dark.svg" />
@@ -120,7 +120,7 @@
 
 ---
 
-## ⚡ Engineering Philosophy
+## ENGINEERING PHILOSOPHY 
 
 ```javascript
 const Incognito = {
