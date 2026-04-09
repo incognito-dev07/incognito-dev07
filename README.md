@@ -1,22 +1,27 @@
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=12,14,15&section=header&text=Incognito%20Dev&fontSize=45&fontColor=9d4edd&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=12,14,15&section=header&text=Incognito%20Dev&fontSize=45&fontColor=9d4edd&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20JavaScript%20Specialist%20%7C%20Python%20Enthusiast&descSize=18&descColor=8b949e&descAlignY=55" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=500&color=9d4edd&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;JavaScript+Specialist;Python+Enthusiast" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=500&color=9d4edd&center=true&vCenter=true&width=700&lines=Building+scalable+web+applications+from+frontend+to+backend;Turning+complex+problems+into+elegant+solutions;Learning+something+new+every+single+day;Open+source+enthusiast+and+community+contributor;Clean+code%2C+smart+architecture%2C+great+UX" />
 </div>
 
 <br>
 
 <div align="center">
-  <pre style="font-family: 'Courier New', Courier, monospace; line-height: 1.2; color: #9d4edd;">
+
+```
+
 ██╗███╗   ██╗ ██████╗ ██████╗  ██████╗ ███╗   ██╗██╗████████╗ ██████╗ 
 ██║████╗  ██║██╔════╝██╔═══██╗██╔════╝ ████╗  ██║██║╚══██╔══╝██╔═══██╗
 ██║██╔██╗ ██║██║     ██║   ██║██║  ███╗██╔██╗ ██║██║   ██║   ██║   ██║
 ██║██║╚██╗██║██║     ██║   ██║██║   ██║██║╚██╗██║██║   ██║   ██║   ██║
 ██║██║ ╚████║╚██████╗╚██████╔╝╚██████╔╝██║ ╚████║██║   ██║   ╚██████╔╝
-╚═╝╚═╝  ╚═══╝ ╚═════╝ ╚═════╝  ╚═════╝ ╚═╝  ╚═══╝╚═╝   ╚═╝    ╚═════╝ 
-  </pre>
+╚═╝╚═╝  ╚═══╝ ╚═════╝ ╚═════╝  ╚═════╝ ╚═╝  ╚═══╝╚═╝   ╚═╝    ╚═════╝
+
+```
+
 </div>
 
 <div align="center">
@@ -25,9 +30,6 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/incognito-dev07">
-    <img src="https://img.shields.io/badge/-GITHUB-181717?style=flat-square&logo=github&logoColor=white" />
-  </a>
   <a href="https://wa.me/2349065168872">
     <img src="https://img.shields.io/badge/-WHATSAPP-25D366?style=flat-square&logo=whatsapp&logoColor=white" />
   </a>
@@ -80,7 +82,6 @@
 ![Python](https://img.shields.io/badge/-PYTHON-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/-TAILWIND-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Git](https://img.shields.io/badge/-GIT-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GITHUB-181717?style=flat-square&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/-VERCEL-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/-RENDER-46E3B7?style=flat-square&logo=render&logoColor=black)
 ![EJS](https://img.shields.io/badge/-EJS-B4CA65?style=flat-square&logo=ejs&logoColor=black)
@@ -124,8 +125,6 @@
 ```javascript
 const Incognito = {
     identity:      ["Full-Stack Developer", "JavaScript Specialist", "Python Enthusiast"],
-    github:        "@incognito-dev07",
-    youtube:       "@incognito-dev07",
     currentFocus:  "Building scalable web applications",
     principles: [
         "Write clean, maintainable code — refactor ruthlessly.",
