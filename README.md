@@ -13,12 +13,12 @@
 
 ```
 
-██╗███╗   ██╗ ██████╗ ██████╗  ██████╗ ███╗   ██╗██╗████████╗ ██████╗ 
-██║████╗  ██║██╔════╝██╔═══██╗██╔════╝ ████╗  ██║██║╚══██╔══╝██╔═══██╗
-██║██╔██╗ ██║██║     ██║   ██║██║  ███╗██╔██╗ ██║██║   ██║   ██║   ██║
-██║██║╚██╗██║██║     ██║   ██║██║   ██║██║╚██╗██║██║   ██║   ██║   ██║
-██║██║ ╚████║╚██████╗╚██████╔╝╚██████╔╝██║ ╚████║██║   ██║   ╚██████╔╝
-╚═╝╚═╝  ╚═══╝ ╚═════╝ ╚═════╝  ╚═════╝ ╚═╝  ╚═══╝╚═╝   ╚═╝    ╚═════╝
+██╗███╗   ██╗  ██████╗ ██████╗   ██████╗  ███╗   ██╗██╗████████╗ ██████╗ 
+██║████╗  ██║ ██╔════╝██╔═══██╗ ██╔════╝ ████╗  ██║██║╚══██╔══╝██╔═══██╗
+██║██╔██╗ ██║██║      ██║     ██║██║  ███╗██╔██╗ ██║██║    ██║   ██║    ██║
+██║██║╚██╗██║██║      ██║    ██║ ██║   ██║██║╚██╗██║██║    ██║   ██║   ██║
+██║██║ ╚████║╚██████╗╚██████╔╝ ╚██████╔╝██║ ╚████║██║    ██║   ╚██████╔╝
+╚═╝╚═╝  ╚═══╝ ╚═════╝ ╚═════╝   ╚═════╝ ╚═╝  ╚═══╝╚═╝    ╚═╝    ╚═════╝
 
 ```
 
@@ -30,9 +30,6 @@
 </div><br>
 
 <div align="center">
-  <a href="https://wa.me/2349065168872">
-    <img src="https://img.shields.io/badge/-TIKTOK-060606?style=flat-square&logo=tiktok&logoColor=white" />
-  </a>
   <a href="https://wa.me/2349065168872">
     <img src="https://img.shields.io/badge/-WHATSAPP-25D366?style=flat-square&logo=whatsapp&logoColor=white" />
   </a>
@@ -99,12 +96,6 @@
 ---
 
 ## DEVELOPER METRICS
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=incognito-dev07&show_icons=true&theme=dark&title_color=9d4edd&icon_color=9d4edd&text_color=8b949e&border_color=30363d&bg_color=0d1117&hide_border=false&count_private=true&include_all_commits=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=incognito-dev07&layout=compact&theme=dark&title_color=9d4edd&text_color=8b949e&border_color=30363d&bg_color=0d1117&hide_border=false" />
-</div>
-
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=incognito-dev07&theme=dark&background=0d1117&border=30363d&stroke=9d4edd&ring=9d4edd&fire=9d4edd&currStreakNum=8b949e&sideNums=8b949e&currStreakLabel=9d4edd&sideLabels=9d4edd&dates=8b949e&hide_border=false" />
 </div>
