@@ -1,4 +1,3 @@
-```markdown
 # Osasan Olusola
 
 **Full-Stack Developer | JavaScript Specialist | Python Enthusiast**
@@ -82,33 +81,3 @@ const fullStackDev = {
     learning: ["TypeScript", "Next.js", "AWS"],
     funFact: "I debug with console.log and I'm not ashamed",
 };
-```
-
----
-
-📂 Featured Projects
-
-Project Description Tech Stack
-Project Alpha A full-stack e-commerce platform with user auth and payment integration React, Node.js, PostgreSQL
-Task Manager API RESTful API for task management with JWT authentication Express, PostgreSQL, JWT
-Weather Dashboard Real-time weather application with interactive UI React, TailwindCSS, OpenWeather API
-Portfolio Site Personal portfolio showcasing projects and skills React, TailwindCSS, Framer Motion
-
----
-
-📫 Let's Connect
-
-https://img.shields.io/badge/-GITHUB-181717?style=for-the-badge&logo=github&logoColor=white
-https://img.shields.io/badge/-LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white
-https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=x&logoColor=white
-https://img.shields.io/badge/-EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white
-
----
-
-"Code is like humor. When you have to explain it, it's bad." – Cory House
-
----
-
-Last updated: 2026-04-09
-
-```
