@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=Incognito%20Dev&fontSize=45&fontColor=9d4edd&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=12,14,15&section=header&text=Incognito%20Dev&fontSize=45&fontColor=9d4edd&animation=fadeIn&fontAlignY=35" />
 </div>
 
 <div align="center">
@@ -9,7 +9,7 @@
 <br>
 
 <div align="center">
-  <pre style="font-family: monospace; line-height: 1.2; color: #9d4edd;">
+  <pre style="font-family: 'Courier New', Courier, monospace; line-height: 1.2; color: #9d4edd;">
 ██╗███╗   ██╗ ██████╗ ██████╗  ██████╗ ███╗   ██╗██╗████████╗ ██████╗ 
 ██║████╗  ██║██╔════╝██╔═══██╗██╔════╝ ████╗  ██║██║╚══██╔══╝██╔═══██╗
 ██║██╔██╗ ██║██║     ██║   ██║██║  ███╗██╔██╗ ██║██║   ██║   ██║   ██║
@@ -41,7 +41,7 @@
 
 ---
 
-## Featured Projects
+## 📌 Featured Projects
 
 <div align="center">
   <a href="https://github.com/incognito-dev07/media-saver">
@@ -63,7 +63,7 @@
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
   
@@ -94,7 +94,7 @@
 
 ---
 
-## Developer Metrics
+## 📊 Developer Metrics
 
 <div align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=incognito-dev07&show_icons=true&theme=dark&title_color=9d4edd&icon_color=9d4edd&text_color=8b949e&border_color=30363d&bg_color=0d1117&hide_border=false&count_private=true&include_all_commits=true" />
@@ -111,7 +111,7 @@
 
 ---
 
-## Contribution
+## 🐍 Contribution Snake
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/incognito-dev07/incognito-dev07/output/github-contribution-grid-snake-dark.svg" />
@@ -119,7 +119,7 @@
 
 ---
 
-## Engineering Philosophy
+## ⚡ Engineering Philosophy
 
 ```javascript
 const Incognito = {
