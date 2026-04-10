@@ -37,7 +37,9 @@
 
 ---
 
-## Tech Stack
+<div align="center">
+  <h2>TECH STACK</h2>
+</div>
 
 <div align="center">
   
@@ -67,7 +69,9 @@
 
 ---
 
-## Developer Metrics
+<div align="center">
+  <h2>DEVELOPER METRICS</h2>
+</div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=incognito-dev07&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF&sideLabels=C9D1D9" alt="GitHub Streak" width="60%" />
@@ -82,7 +86,9 @@
 
 ---
 
-## Contribution Trail
+<div align="center">
+  <h2>CONTRIBUTION TRAIL</h2>
+</div>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/incognito-dev07/incognito-dev07/output/github-contribution-grid-snake-dark.svg" />
@@ -90,7 +96,9 @@
 
 ---
 
-## Engineering Philosophy
+<div align="center">
+  <h2>ENGINEERING PHILOSOPHY</h2>
+</div>
 
 ```javascript
 const Incognito = {
@@ -115,5 +123,5 @@ const Incognito = {
 </div>
 
 <div align="center">
-  <sub> Building the decentralized future, one commit at a time.</sub>
+  <sub>⚡ Building the decentralized future, one commit at a time.</sub>
 </div>
