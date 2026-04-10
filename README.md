@@ -102,10 +102,10 @@
 
 ```javascript
 const Incognito = {
-    identity:      ["Full-Stack Developer", "JavaScript Specialist", "Python Enthusiast"],
+    identity:      ["Full-Stack Developer", "JavaScript Specialist"],
     currentFocus:  "Building scalable web applications",
     principles: [
-        "Write clean, maintainable code — refactor ruthlessly.",
+        "Write clean, maintainable code and refactor ruthlessly.",
         "User experience is not optional. Fast, responsive, intuitive.",
         "Learn daily. Tech evolves, so should you.",
         "Document everything. Future you will thank present you.",
