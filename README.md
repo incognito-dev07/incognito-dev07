@@ -56,6 +56,7 @@
 ![Python](https://img.shields.io/badge/-PYTHON-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/-TAILWIND-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Git](https://img.shields.io/badge/-GIT-F05032?style=flat-square&logo=git&logoColor=white)
+![GITHUB](https://img.shields.io/badge/-GITHUB-000000?style=flat-square&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/-VERCEL-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/-RENDER-46E3B7?style=flat-square&logo=render&logoColor=black)
 ![EJS](https://img.shields.io/badge/-EJS-B4CA65?style=flat-square&logo=ejs&logoColor=black)
