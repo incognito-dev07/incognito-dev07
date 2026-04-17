@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=12,14,15&section=header&text=Osasan%20Olusola&fontSize=45&animation=fadeIn&fontAlignY=35&desc=Dart%20%7C%20Flutter%20%7C%20Cross-Platform%20Developer&descSize=18&descAlignY=55" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=12,14,15&section=header&text=Osasan%20Olusola&fontSize=45&animation=fadeIn&fontAlignY=35&desc=Nothing%20Developer&descSize=18&descAlignY=55" />
 </div>
 
 <div align="center">
@@ -46,8 +46,8 @@
   
 ![Dart](https://img.shields.io/badge/-DART-0175C2?style=flat-square&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/-FLUTTER-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Riverpod](https://img.shields.io/badge/-RIVERPOD-25A2E3?style=flat-square&logo=flutter&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-FIREBASE-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Riverpod](https://img.shields.io/badge/-RIVERPOD-25A2E3?style=flat-square&logo=flutter&logoColor=white)
 ![Supabase](https://img.shields.io/badge/-SUPABASE-3ECF8E?style=flat-square&logo=supabase&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-NODE.JS-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/-EXPRESS-000000?style=flat-square&logo=express&logoColor=white)
@@ -56,8 +56,7 @@
 ![Hive](https://img.shields.io/badge/-HIVE-FFD54F?style=flat-square&logo=hive&logoColor=black)
 ![SQLite](https://img.shields.io/badge/-SQLITE-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![Git](https://img.shields.io/badge/-GIT-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GITHUB_ACTIONS-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![Fastlane](https://img.shields.io/badge/-FASTLANE-00F200?style=flat-square&logo=fastlane&logoColor=black)
+![GitHub](https://img.shields.io/badge/-GITHUB-000000?style=flat-square&logo=github&logoColor=white)
 ![Figma](https://img.shields.io/badge/-FIGMA-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 </div>
