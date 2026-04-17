@@ -1,9 +1,10 @@
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=12,14,15&section=header&text=Osasan%20Olusola&fontSize=45&animation=fadeIn&fontAlignY=35&desc=Flutter%20%7C%20Dart%20%7C%20Cross-Platform%20Craftsman&descSize=18&descAlignY=55" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=12,14,15&section=header&text=Osasan%20Olusola&fontSize=45&animation=fadeIn&fontAlignY=35&desc=Dart%20%7C%20Flutter%20%7C%20Cross-Platform%20Developer&descSize=18&descAlignY=55" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=500&color=00B4D8&center=true&vCenter=true&width=700&lines=Building+beautiful+cross-platform+apps+with+Flutter;Write+once%2C+run+everywhere+%7C+iOS+%2B+Android+%2B+Web;Clean+UI%2C+solid+state+management%2C+performant+backend;Turning+complex+requirements+into+elegant+Dart+solutions;Open+source+contributor+%7C+Flutter+community+enthusiast" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=500&color=00B4D8&center=true&vCenter=true&width=700&lines=Building+beautiful+cross-platform+apps+with+Flutter;Clean+UI%2C+solid+state+management%2C+performant+backend;Turning+complex+requirements+into+elegant+Dart+solutions;Open+source+contributor+%7C+Flutter+community+enthusiast" />
 </div>
 
 <br>
@@ -38,59 +39,26 @@
 ---
 
 <div align="center">
-  <h2>DART + FLUTTER TECH STACK</h2>
+  <h2>TECH STACK</h2>
 </div>
 
 <div align="center">
   
-### 🎯 **Core**
 ![Dart](https://img.shields.io/badge/-DART-0175C2?style=flat-square&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/-FLUTTER-02569B?style=flat-square&logo=flutter&logoColor=white)
-
-### 🧠 **State Management**
 ![Riverpod](https://img.shields.io/badge/-RIVERPOD-25A2E3?style=flat-square&logo=flutter&logoColor=white)
-![Bloc](https://img.shields.io/badge/-BLOC-1E88E5?style=flat-square&logo=flutter&logoColor=white)
-![GetX](https://img.shields.io/badge/-GETX-8A2BE2?style=flat-square&logo=flutter&logoColor=white)
-
-### 🔥 **Backend & BaaS**
 ![Firebase](https://img.shields.io/badge/-FIREBASE-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Supabase](https://img.shields.io/badge/-SUPABASE-3ECF8E?style=flat-square&logo=supabase&logoColor=black)
-![Appwrite](https://img.shields.io/badge/-APPWRITE-F02E65?style=flat-square&logo=appwrite&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-NODE.JS-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/-EXPRESS-000000?style=flat-square&logo=express&logoColor=white)
-
-### 🗄️ **Databases**
 ![PostgreSQL](https://img.shields.io/badge/-POSTGRESQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MONGODB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Hive](https://img.shields.io/badge/-HIVE-FFD54F?style=flat-square&logo=hive&logoColor=black)
 ![SQLite](https://img.shields.io/badge/-SQLITE-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![ObjectBox](https://img.shields.io/badge/-OBJECTBOX-ED1C24?style=flat-square&logo=objectbox&logoColor=white)
-
-### 🧪 **Testing & Quality**
-![Jest](https://img.shields.io/badge/-JEST-C21325?style=flat-square&logo=jest&logoColor=white)
-![Mockito](https://img.shields.io/badge/-MOCKITO-0A5E9A?style=flat-square&logo=mockito&logoColor=white)
-![Flutter Test](https://img.shields.io/badge/-FLUTTER_TEST-02569B?style=flat-square&logo=flutter&logoColor=white)
-
-### 🛠️ **Tooling**
 ![Git](https://img.shields.io/badge/-GIT-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GITHUB_ACTIONS-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 ![Fastlane](https://img.shields.io/badge/-FASTLANE-00F200?style=flat-square&logo=fastlane&logoColor=black)
-![CodeMagic](https://img.shields.io/badge/-CODEMAGIC-F0453C?style=flat-square&logo=codemagic&logoColor=white)
-
-### 🚀 **Deployment & CI/CD**
-![App Store](https://img.shields.io/badge/-APP_STORE-0D96F6?style=flat-square&logo=apple&logoColor=white)
-![Google Play](https://img.shields.io/badge/-GOOGLE_PLAY-414141?style=flat-square&logo=googleplay&logoColor=white)
-![Vercel](https://img.shields.io/badge/-VERCEL-000000?style=flat-square&logo=vercel&logoColor=white)
-
-### 🎨 **UI/UX**
 ![Figma](https://img.shields.io/badge/-FIGMA-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/-ADOBE_XD-FF61F6?style=flat-square&logo=adobe-xd&logoColor=white)
-
-### 📦 **Essential Packages**
-![Dio](https://img.shields.io/badge/-DIO-007FFF?style=flat-square)
-![GetIt](https://img.shields.io/badge/-GETIT-FF6D00?style=flat-square)
-![Freezed](https://img.shields.io/badge/-FREEZED-00B4D8?style=flat-square)
-![Equatable](https://img.shields.io/badge/-EQUATABLE-9D4EDD?style=flat-square)
 
 </div>
 
@@ -123,73 +91,23 @@
 ---
 
 <div align="center">
-  <h2>FLUTTER ENGINEERING PHILOSOPHY</h2>
+  <h2>ENGINEERING PHILOSOPHY</h2>
 </div>
 
-```dart
-class Incognito extends FlutterDeveloper {
-  final String identity = "Cross-Platform Mobile & Web Developer";
-  final String specialization = "Flutter + Dart Ecosystem";
-  
-  final List<String> principles = [
-    "Write once, run everywhere — but test everywhere too.",
-    "Declarative UI is freedom. Widgets are lego blocks.",
-    "State management is not optional. Choose wisely (Riverpod/Bloc).",
-    "Performance matters. Profile, optimize, repeat.",
-    "Hot reload is a superpower. Use it to iterate fast.",
-    "Platform channels when necessary. Pure Dart when possible.",
-    "Null safety is not annoying. It's a lifesaver.",
-    "Build for iOS, Android, Web, Desktop — but design for each.",
-  ];
-  
-  final Map<String, String> currentFocus = {
-    "Learning": "Rust (for Flutter FFI), WebAssembly, SwiftUI Compose",
-    "Building": "E-commerce app with Riverpod + Supabase",
-    "Mastering": "Custom Paint, Animations, Isolates",
-  };
-  
-  final List<String> openTo = [
-    "Flutter freelance projects",
-    "Open source package contributions",
-    "Flutter mentoring & teaching",
-    "Writing technical articles on Dart/Flutter",
-  ];
-  
-  String get philosophy => 
-      "Flutter isn't just a framework. It's a paradigm shift. "
-      "One codebase, one team, one dream — deployed everywhere.";
-}
-```
-
----
-
-<div align="center">
-  <h2>CROSS-PLATFORM FOOTPRINT</h2>
-</div>
-
-<div align="center">
-
-Platform Status
-📱 iOS App Store ready
-🤖 Android Google Play deployed
-🌐 Web PWAs that feel native
-💻 Desktop Windows, macOS, Linux
-🖥️ Embedded Raspberry Pi, Linux devices
-
-</div>
-
----
-
-<div align="center">
-  <h2>CURRENTLY ENGINEERING</h2>
-</div>
-
-```bash
-$ flutter --version
-Flutter 3.29.0 • channel stable
-Dart 3.7.0 • DevTools 2.40.2
-
-$ echo "Building the cross-platform future, one widget at a time."
+```javascript
+const Incognito = {
+    identity:      ["Flutter Developer", "Dart Specialist"],
+    currentFocus:  "Building cross-platform apps with Flutter",
+    principles: [
+        "Write clean, maintainable code and refactor ruthlessly.",
+        "User experience is not optional. Fast, responsive, intuitive.",
+        "Learn daily. Tech evolves, so should you.",
+        "Document everything. Future you will thank present you.",
+        "Open source what you can. Give back to the community.",
+    ],
+    learning:      ["Rust (FFI)", "WebAssembly", "SwiftUI"],
+    openTo:        ["Freelance Projects", "Open Source Collab", "Tech Writing"],
+};
 ```
 
 ---
@@ -199,5 +117,5 @@ $ echo "Building the cross-platform future, one widget at a time."
 </div>
 
 <div align="center">
-  <sub>⚡ Write once. Deploy everywhere. Flutter forever.</sub>
+  <sub>⚡ Building the cross-platform future, one widget at a time.</sub>
 </div>
