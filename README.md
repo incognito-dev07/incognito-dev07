@@ -105,7 +105,7 @@ class Incognito {
     "Open source what you can. Give back to the community.",
   ];
   
-  static const List<String> learning = ["Rust (FFI)", "WebAssembly", "SwiftUI"];
+  static const List<String> learning = ["Riverpod", "Flutter Web", "Dart FFI"];
   static const List<String> openTo = ["Freelance", "Open Source", "Tech Writing"];
 }
 ```
