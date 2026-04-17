@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=12,14,15&section=header&text=Osasan%20Olusola&fontSize=45&animation=fadeIn&fontAlignY=35&desc=Flutter%20%7C%20Dart%20Developer&descSize=18&descAlignY=55" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=12,14,15&section=header&text=Osasan%20Olusola&fontSize=45&animation=fadeIn&fontAlignY=35&desc=Aspiring%20Flutter%20Developer&descSize=18&descAlignY=55" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=500&color=00B4D8&center=true&vCenter=true&width=700&lines=Building+beautiful+cross-platform+apps+with+Flutter;Clean+UI%2C+solid+state+management%2C+performant+backend;Turning+complex+requirements+into+elegant+Dart+solutions;Open+source+contributor+%7C+Flutter+community+enthusiast" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=500&color=00B4D8&center=true&vCenter=true&width=700&lines=Building+beautiful+cross-platform+apps+with+Flutter;Clean+UI%2C+solid+state+management%2C+performant+backend;Turning+complex+requirements+into+elegant+Dart+solutions;Open+source+contributor+and+Flutter+community+enthusiast" />
 </div>
 
 <br>
