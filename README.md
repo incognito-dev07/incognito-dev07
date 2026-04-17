@@ -106,7 +106,7 @@ class Incognito {
   ];
   
   static const List<String> learning = ["Riverpod", "Flutter Web", "Dart FFI"];
-  static const List<String> openTo = ["Freelance", "Open Source", "Tech Writing"];
+  static const List<String> openTo = ["Freelance", "Open Source"];
 }
 ```
 
