@@ -1,6 +1,5 @@
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=12,14,15&section=header&text=Osasan%20Olusola&fontSize=45&animation=fadeIn&fontAlignY=35&desc=Nothing%20Developer&descSize=18&descAlignY=55" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=12,14,15&section=header&text=Osasan%20Olusola&fontSize=45&animation=fadeIn&fontAlignY=35&desc=Flutter%20%7C%20Dart%20Developer&descSize=18&descAlignY=55" />
 </div>
 
 <div align="center">
@@ -93,20 +92,22 @@
   <h2>ENGINEERING PHILOSOPHY</h2>
 </div>
 
-```javascript
-const Incognito = {
-    identity:      ["Flutter Developer", "Dart Specialist"],
-    currentFocus:  "Building cross-platform apps with Flutter",
-    principles: [
-        "Write clean, maintainable code and refactor ruthlessly.",
-        "User experience is not optional. Fast, responsive, intuitive.",
-        "Learn daily. Tech evolves, so should you.",
-        "Document everything. Future you will thank present you.",
-        "Open source what you can. Give back to the community.",
-    ],
-    learning:      ["Rust (FFI)", "WebAssembly", "SwiftUI"],
-    openTo:        ["Freelance Projects", "Open Source Collab", "Tech Writing"],
-};
+```dart
+class Incognito {
+  static const String identity = "Flutter Developer";
+  static const String focus = "Building cross-platform apps with Flutter";
+  
+  static const List<String> principles = [
+    "Write clean, maintainable code and refactor ruthlessly.",
+    "User experience is not optional. Fast, responsive, intuitive.",
+    "Learn daily. Tech evolves, so should you.",
+    "Document everything. Future you will thank present you.",
+    "Open source what you can. Give back to the community.",
+  ];
+  
+  static const List<String> learning = ["Rust (FFI)", "WebAssembly", "SwiftUI"];
+  static const List<String> openTo = ["Freelance", "Open Source", "Tech Writing"];
+}
 ```
 
 ---
