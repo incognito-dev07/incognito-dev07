@@ -3,21 +3,21 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=500&color=00B4D8&center=true&vCenter=true&width=700&lines=Building+beautiful+cross-platform+apps+with+Flutter;Clean+UI%2C+solid+state+management%2C+performant+backend;Turning+complex+requirements+into+elegant+Dart+solutions;Open+source+contributor+and+Flutter+community+enthusiast" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=500&color=2F80ED&center=true&vCenter=true&width=700&lines=Building+beautiful+cross-platform+apps+with+Flutter;Clean+UI%2C+solid+state+management%2C+performant+backend;Turning+complex+requirements+into+elegant+Dart+solutions;Open+source+contributor+and+Flutter+community+enthusiast" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Monoton&size=50&duration=1&pause=999999&color=00B4D8&center=true&vCenter=true&width=800&lines=%3C%2F%3E" />
+  <img src="https://readme-typing-svg.demolab.com?font=Monoton&size=50&duration=1&pause=999999&color=2F80ED&center=true&vCenter=true&width=800&lines=%3C%2F%3E" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=incognito-dev07&label=PROFILE+VIEWS&style=flat-square&color=00B4D8" />
-  <img src="https://img.shields.io/github/followers/incognito-dev07?label=FOLLOWERS&style=flat-square&color=00B4D8" />
-  <img src="https://img.shields.io/github/stars/incognito-dev07?affiliations=OWNER%2CCOLLABORATOR&label=STARS&style=flat-square&color=00B4D8" />
+  <img src="https://komarev.com/ghpvc/?username=incognito-dev07&label=PROFILE+VIEWS&style=flat-square&color=2F80ED" />
+  <img src="https://img.shields.io/github/followers/incognito-dev07?label=FOLLOWERS&style=flat-square&color=2F80ED" />
+  <img src="https://img.shields.io/github/stars/incognito-dev07?affiliations=OWNER%2CCOLLABORATOR&label=STARS&style=flat-square&color=2F80ED" />
   <img src="https://img.shields.io/badge/-PUBLIC%20REPOS-001117?style=flat-square&logo=github&logoColor=white" />
 </div>
 
@@ -66,13 +66,13 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=incognito-dev07&theme=tokyonight&hide_border=true&background=0D1117&stroke=00B4D8&ring=00B4D8&fire=FF6B6B&currStreakLabel=00B4D8&sideLabels=C9D1D9" alt="GitHub Streak" width="60%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=incognito-dev07&theme=tokyonight&hide_border=true&background=0D1117&stroke=2F80ED&ring=2F80ED&fire=FF6B6B&currStreakLabel=2F80ED&sideLabels=C9D1D9" alt="GitHub Streak" width="60%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=incognito-dev07&theme=tokyo-night&bg_color=0D1117&hide_border=true&color=00B4D8&line=00B4D8&point=FF6B6B&area=true" alt="Contribution Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=incognito-dev07&theme=tokyo-night&bg_color=0D1117&hide_border=true&color=2F80ED&line=2F80ED&point=FF6B6B&area=true" alt="Contribution Graph" width="100%" />
 </div>
 
 ---
