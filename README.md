@@ -37,9 +37,7 @@
 
 ---
 
-<div align="center">
-  <h2>TECH STACK</h2>
-</div>
+<h3>TECH STACK</h3>
 
 <div align="center">
   
@@ -61,9 +59,7 @@
 
 ---
 
-<div align="center">
-  <h2>DEVELOPER METRICS</h2>
-</div>
+<h3>DEVELOPER METRICS</h3>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=incognito-dev07&theme=tokyonight&hide_border=true&background=0D1117&stroke=00B4D8&ring=00B4D8&fire=FF6B6B&currStreakLabel=00B4D8&sideLabels=C9D1D9" alt="GitHub Streak" width="60%" />
@@ -77,9 +73,7 @@
 
 ---
 
-<div align="center">
-  <h2>CONTRIBUTION TRAIL</h2>
-</div>
+<h3>CONTRIBUTION TRAIL</h3>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/incognito-dev07/incognito-dev07/output/github-contribution-grid-snake-dark.svg" />
@@ -87,9 +81,7 @@
 
 ---
 
-<div align="center">
-  <h2>ENGINEERING PHILOSOPHY</h2>
-</div>
+<h3>ENGINEERING PHILOSOPHY</h3>
 
 ```dart
 class Incognito {
