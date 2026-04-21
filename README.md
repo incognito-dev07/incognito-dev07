@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=12,14,15&section=header&text=Osasan%20Olusola&fontSize=45&animation=fadeIn&fontAlignY=35&desc=Aspiring%20Flutter%20Developer&descSize=18&descAlignY=55" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=Osasan%20Olusola&fontSize=45&animation=fadeIn&fontAlignY=35&desc=Aspiring%20Flutter%20Developer&descSize=18&descAlignY=55&color=gradient&gradientColorStart=2F80ED&gradientColorEnd=0B1F3A" />
 </div>
 
 <div align="center">
@@ -88,7 +88,7 @@
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=fadeIn" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&animation=fadeIn&color=gradient&gradientColorStart=2F80ED&gradientColorEnd=0B1F3A" />
 </div>
 
 <div align="center">
