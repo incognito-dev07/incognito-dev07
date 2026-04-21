@@ -91,5 +91,5 @@
 </div>
 
 <div align="center">
-  <sub>⚡ Building the cross-platform future, one widget at a time.</sub>
+  <p style="font-family: Times New Roman;">⚡ Building the cross-platform future, one widget at a time.</p>
 </div>
