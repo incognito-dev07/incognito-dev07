@@ -88,30 +88,6 @@
 ---
 
 <div align="center">
-<h3>ENGINEERING PHILOSOPHY</h3>
-</div>
-
-```dart
-class Incognito {
-  static const String identity = "Flutter Developer";
-  static const String focus = "Building cross-platform apps with Flutter";
-  
-  static const List<String> principles = [
-    "Write clean, maintainable code and refactor ruthlessly.",
-    "User experience is not optional. Fast, responsive, intuitive.",
-    "Learn daily. Tech evolves, so should you.",
-    "Document everything. Future you will thank present you.",
-    "Open source what you can. Give back to the community.",
-  ];
-  
-  static const List<String> learning = ["Riverpod", "Flutter Web", "Dart FFI"];
-  static const List<String> openTo = ["Freelance", "Open Source"];
-}
-```
-
----
-
-<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=fadeIn" alt="Footer" />
 </div>
 
