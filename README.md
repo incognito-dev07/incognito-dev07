@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=500&color=2F80ED&center=true&vCenter=true&width=700&lines=Building+beautiful+cross-platform+apps+with+Flutter;Clean+UI%2C+solid+state+management%2C+performant+backend;Turning+complex+requirements+into+elegant+Dart+solutions;Open+source+contributor+and+Flutter+community+enthusiast" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=500&color=2F80ED&center=true&vCenter=true&width=700&lines=Building+beautiful+cross-platform+apps+with+Flutter;Clean+UI%2C+solid+state+management%2C+efficient+backend;Turning+complex+requirements+into+elegant+Dart+solutions;Open+source+contributor+and+Flutter+community+enthusiast" />
 </div>
 
 <br>
