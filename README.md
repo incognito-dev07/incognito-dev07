@@ -77,8 +77,8 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=incognito-dev07&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2F80ED&icon_color=2F80ED&text_color=C9D1D9&ring_color=2F80ED&count_private=true&include_all_commits=true" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=incognito-dev07&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2F80ED&text_color=C9D1D9&langs_count=8" alt="Top Languages" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=incognito-dev07&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2F80ED&icon_color=2F80ED&text_color=C9D1D9&ring_color=2F80ED&count_private=true&include_all_commits=true" alt="GitHub Stats" width="54%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=incognito-dev07&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2F80ED&text_color=C9D1D9&langs_count=8" alt="Top Languages" width="44%" />
 </div>
 
 ---
