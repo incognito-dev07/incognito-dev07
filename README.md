@@ -51,7 +51,7 @@
 ![Express](https://img.shields.io/badge/-EXPRESS-000000?style=flat-square&logo=express&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TYPESCRIPT-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Vercel](https://img.shields.io/badge/-VERCEL-000000?style=flat-square&logo=vercel&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-POSTGRESQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Render](https://img.shields.io/badge/-RENDER-46E3B7?style=flat-square&logo=render&logoColor=black)
 ![Firebase](https://img.shields.io/badge/-FIREBASE-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Git](https://img.shields.io/badge/-GIT-F05032?style=flat-square&logo=git&logoColor=white)
