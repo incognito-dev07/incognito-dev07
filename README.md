@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=500&color=2F80ED&center=true&vCenter=true&width=700&lines=Building+beautiful+cross-platform+apps+with+Flutter;Turning+complex+requirements+into+elegant+Dart+solutions;Open+source+contributor+and+Flutter+community+enthusiast" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=500&color=2F80ED&center=true&vCenter=true&width=700&lines=Building+scalable+full-stack+apps+with+JavaScript;Turning+complex+requirements+into+elegant+Node.js+solutions;Open+source+contributor+and+JS+community+enthusiast" />
 </div>
 
 <br>
@@ -43,18 +43,21 @@
 
 <div align="center">
   
-![Dart](https://img.shields.io/badge/-DART-0175C2?style=flat-square&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/-FLUTTER-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Firebase](https://img.shields.io/badge/-FIREBASE-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Riverpod](https://img.shields.io/badge/-RIVERPOD-25A2E3?style=flat-square&logo=flutter&logoColor=white)
-![Supabase](https://img.shields.io/badge/-SUPABASE-3ECF8E?style=flat-square&logo=supabase&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JAVASCRIPT-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TYPESCRIPT-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-REACT-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-NODE.JS-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/-EXPRESS-000000?style=flat-square&logo=express&logoColor=white)
+![Supabase](https://img.shields.io/badge/-SUPABASE-3ECF8E?style=flat-square&logo=supabase&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/-POSTGRESQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MONGODB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/-FIREBASE-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![SQLite](https://img.shields.io/badge/-SQLITE-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![Git](https://img.shields.io/badge/-GIT-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GITHUB-000000?style=flat-square&logo=github&logoColor=white)
-![SQLite](https://img.shields.io/badge/-SQLITE-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Vercel](https://img.shields.io/badge/-VERCEL-000000?style=flat-square&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/-RENDER-46E3B7?style=flat-square&logo=render&logoColor=black)
 
 </div>
 
@@ -91,5 +94,5 @@
 </div>
 
 <div align="center">
-  <b>⚡ Building the cross-platform future, one widget at a time.</b>
+  <b>⚡ Building the modern web, one component at a time.</b>
 </div>
