@@ -79,8 +79,8 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=incognito-dev07&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2F80ED&icon_color=2F80ED&text_color=C9D1D9&count_private=true&include_all_commits=true" width="56%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=incognito-dev07&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2F80ED&text_color=C9D1D9&langs_count=8&hide=html,css" width="42%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=incognito-dev07&show_icons=true&theme=tokyonight&hide_border=false&border_color=2F80ED&bg_color=0D1117&title_color=2F80ED&icon_color=2F80ED&text_color=C9D1D9&count_private=true&include_all_commits=true" width="56%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=incognito-dev07&layout=compact&theme=tokyonight&hide_border=false&border_color=2F80ED&bg_color=0D1117&title_color=2F80ED&text_color=C9D1D9&langs_count=8&hide=html,css" width="42%" />
 </div>
 
 ---
