@@ -67,7 +67,7 @@
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=incognito-dev07&theme=tokyonight&hide_border=true&background=0D1117&stroke=2F80ED&ring=2F80ED&fire=FF6B6B&currStreakLabel=2F80ED&sideLabels=C9D1D9" width="60%" />
+  <img src="https://streak-stats.demolab.com?user=incognito-dev07&theme=tokyonight&hide_border=false&border=2F80ED&background=0D1117&stroke=2F80ED&ring=2F80ED&fire=FF6B6B&currStreakLabel=2F80ED&sideLabels=C9D1D9" width="60%" />
 </div>
 
 <br/>
