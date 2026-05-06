@@ -57,7 +57,7 @@
 ![Supabase](https://img.shields.io/badge/-SUPABASE-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-FIREBASE-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Vercel](https://img.shields.io/badge/-VERCEL-000000?style=flat-square&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/-RENDER-1E3A3A?style=flat-square&logo=render&logoColor=white)
+![Render](https://img.shields.io/badge/-RENDER-2E8B8B?style=flat-square&logo=render&logoColor=white)
 ![Git](https://img.shields.io/badge/-GIT-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GITHUB-000000?style=flat-square&logo=github&logoColor=white)
 
