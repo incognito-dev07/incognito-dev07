@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=500&color=2F80ED&center=true&vCenter=true&width=700&lines=Building+scalable+full-stack+apps+with+JavaScript;Turning+complex+requirements+into+elegant+Node.js+solutions;Open+source+contributor+and+JS+community+enthusiast" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=500&color=2F80ED&center=true&vCenter=true&width=700&lines=Building+scalable+full-stack+apps+with+JavaScript;Turning+complex+requirements+into+elegant+Node.js+solutions;Open+source+contributor+and+TS+community+enthusiast" />
 </div>
 
 <br>
