@@ -18,8 +18,14 @@
   
   <img src="https://static.wikia.nocookie.net/houkai-star-rail/images/5/57/Sticker_PPG_26_Sparxie_02.png/revision/latest?cb=20260213044756" width="75px" align="center">
   <img src="https://static.wikia.nocookie.net/houkai-star-rail/images/7/74/Sticker_PPG_26_Sparxie_01.png/revision/latest?cb=20260213044756" width="75px" align="center"> 
-  <img src="https://static.wikia.nocookie.net/houkai-star-rail/images/1/14/Sticker_PPG_26_Sparxie_03.png/revision/latest?cb=20260213044756" width="75px" align="center"> 
   <img src="https://static.wikia.nocookie.net/houkai-star-rail/images/9/96/Sticker_PPG_26_Sparxie_04.png/revision/latest?cb=20260213044756" width="75px" align="center">
+  <img src="https://static.wikia.nocookie.net/houkai-star-rail/images/e/eb/Sticker_PPG_02_Clara_01.png/revision/latest/scale-to-width-down/250?cb=20230505074127" width="75px" align="center">
+  <img src="https://static.wikia.nocookie.net/houkai-star-rail/images/f/f5/Sticker_PPG_09_Jingliu_03.png/revision/latest/scale-to-width-down/250?cb=20231009105128" width="75px" align="center">
+  <img src="https://static.wikia.nocookie.net/houkai-star-rail/images/f/f1/Sticker_PPG_23_Phainon_01.png/revision/latest/scale-to-width-down/250?cb=20250702051616" width="75px" align="center">
+  <img src="https://static.wikia.nocookie.net/houkai-star-rail/images/7/72/Sticker_PPG_23_Phainon_02.png/revision/latest/scale-to-width-down/250?cb=20250702051616" width="75px" align="center">
+  <img src="https://static.wikia.nocookie.net/houkai-star-rail/images/f/fb/Sticker_PPG_23_Phainon_04.png/revision/latest/scale-to-width-down/250?cb=20250702051617" width="75px" align="center">
+  <img src="https://static.wikia.nocookie.net/houkai-star-rail/images/1/15/Sticker_PPG_23_Phainon_03.png/revision/latest/scale-to-width-down/250?cb=20250702051617" width="75px" align="center">
+
 </div>
 
 <br>
