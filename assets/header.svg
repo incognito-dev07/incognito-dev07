@@ -66,10 +66,10 @@
   </rect>
 
   <!-- CORNERS (clean stroke, no fill, slightly shorter) -->
-  <path d="M30 40 L30 18 L56 18" stroke="#D6DCE2" stroke-width="1.2" fill="none"/>
-  <path d="M970 40 L970 18 L944 18" stroke="#D6DCE2" stroke-width="1.2" fill="none"/>
-  <path d="M30 220 L30 242 L56 242" stroke="#D6DCE2" stroke-width="1.2" fill="none"/>
-  <path d="M970 220 L970 242 L944 242" stroke="#D6DCE2" stroke-width="1.2" fill="none"/>
+  <path d="M30 35 L30 18 L56 18" stroke="#D6DCE2" stroke-width="1.5" fill="none"/>
+  <path d="M970 35 L970 18 L944 18" stroke="#D6DCE2" stroke-width="1.5" fill="none"/>
+  <path d="M30 225 L30 242 L56 242" stroke="#D6DCE2" stroke-width="1.5" fill="none"/>
+  <path d="M970 225 L970 242 L944 242" stroke="#D6DCE2" stroke-width="1.5" fill="none"/>
 
   <!-- Name -->
   <text x="50%" y="110"
@@ -85,7 +85,7 @@
   </text>
 
   <!-- Divider -->
-  <line x1="290" y1="130" x2="710" y2="130"
+  <line x1="250" y1="140" x2="750" y2="140"
         stroke="#D6DCE2"
         stroke-width="1.4"
         opacity="0.5">
@@ -98,11 +98,11 @@
   <!-- Subtitle -->
   <text x="50%" y="175"
         text-anchor="middle"
-        font-size="15"
+        font-size="16"
         letter-spacing="4"
         fill="#AEB7C2"
         font-family="Segoe UI, Inter, Arial, sans-serif">
-    𝐒𝐓𝐔𝐃𝐘𝐈𝐍𝐆 𝐒𝐎𝐅𝐓𝐖𝐀𝐑𝐄 𝐄𝐍𝐆𝐈𝐍𝐄𝐄𝐑𝐈𝐍𝐆 𝐀𝐓 𝐅𝐔𝐓𝐀
+    STUDYING SOFTWARE ENGINEERING AT FUTA 
   </text>
 
   <!-- Particles -->
