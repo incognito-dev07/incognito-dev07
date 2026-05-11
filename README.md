@@ -84,7 +84,7 @@
       <br>𝐒𝐔𝐏𝐀𝐁𝐀𝐒𝐄
     </td>
     <td align="center" width="116"> 
-      <img src="https://skillicons.dev/icons?i=git" width="54" height="54" alt="git" />
+      <img src="https://skillicons.dev/icons?i=git" width="60" height="60" alt="git" />
       <br>𝐆𝐈𝐓
     </td>
     <td align="center" width="116">
