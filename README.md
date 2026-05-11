@@ -61,6 +61,61 @@
 
 </div>
 
+<table align="center">
+  <tr>
+    <td align="center"  width="116">
+        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+      <br>HTML5
+    </td>
+    <td align="center" width="116">
+        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
+      <br>CSS3
+    </td>
+    <td align="center" width="116">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+      <br>JAVASCRIPT
+    </td>
+    <td align="center" width="116">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="65" height="65" alt="NodeJS" />
+       <br>NODE.JS
+    </td>
+    <td align="center" width="116">
+        <img src="https://skillicons.dev/icons?i=express" width="65" height="65" alt="Express" />
+      <br>EXPRESS 
+    </td>
+    <td align="center" width="116">
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
+      <br>REACT
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="116">
+        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
+      <br>TYPESCRIPT
+    </td>
+    <td align="center" width="116">
+        <img src="https://skillicons.dev/icons?i=nextjs" width="65" height="65" alt="NextJS" />
+      <br>NEXT.JS
+    </td>
+    <td align="center" width="116">
+        <img src="https://skillicons.dev/icons?i=postgres" width="65" height="65" alt="PostgreSQL" />
+      <br>POSTGRESQL
+    </td>
+    <td align="center" width="116">
+      <img src="https://skillicons.dev/icons?i=supabase" width="65" height="65" alt="Supabase" />
+      <br>SUPABASE
+    </td>
+    <td align="center" width="116"> 
+        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="65" height="65" alt="Git" />
+      <br>GIT
+    </td>
+    <td align="center" width="116">
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
+      <br>GITHUB
+    </td>
+  </tr>
+</table>
+
 ---
 
 <div align="center">
