@@ -31,7 +31,7 @@
   <img src="https://static.wikia.nocookie.net/houkai-star-rail/images/c/c0/Sticker_PPG_15_Firefly_02.png/revision/latest?cb=20240802020609" width="75px" align="center">
   <img src="https://static.wikia.nocookie.net/houkai-star-rail/images/a/ac/Sticker_PPG_15_Firefly_03.png/revision/latest?cb=20240802020619" width="75px" align="center">
 
-</div>
+</div> <br>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%"/>
 
