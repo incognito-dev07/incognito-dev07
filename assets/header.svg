@@ -1,79 +1,73 @@
 <svg width="100%" height="260" viewBox="0 0 1000 260" xmlns="http://www.w3.org/2000/svg">
 
   <defs>
-    <!-- Lighter graphite background (not pure black anymore) -->
     <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#0B0D10"/>
-      <stop offset="50%" stop-color="#11151A"/>
-      <stop offset="100%" stop-color="#0C0F13"/>
+      <stop offset="0%" stop-color="#0C0E12"/>
+      <stop offset="50%" stop-color="#12161C"/>
+      <stop offset="100%" stop-color="#0B0D10"/>
     </linearGradient>
 
-    <!-- Soft platinum (reduced brightness) -->
     <linearGradient id="platinum" x1="0%" y1="0%" x2="100%">
       <stop offset="0%" stop-color="#D6DCE2"/>
       <stop offset="50%" stop-color="#F2F4F7"/>
       <stop offset="100%" stop-color="#B9C2CC"/>
     </linearGradient>
 
-    <!-- Soft glow (much weaker than before) -->
     <filter id="glow">
-      <feGaussianBlur stdDeviation="1.4" result="blur"/>
+      <feGaussianBlur stdDeviation="1.3" result="blur"/>
       <feMerge>
         <feMergeNode in="blur"/>
         <feMergeNode in="SourceGraphic"/>
       </feMerge>
     </filter>
 
-    <!-- Visible mesh lattice -->
-    <pattern id="mesh" width="80" height="80" patternUnits="userSpaceOnUse">
-      <path d="M0 0 L80 0 L80 80 L0 80 Z" fill="none" stroke="#FFFFFF12" stroke-width="1"/>
-      <path d="M0 40 L80 40" stroke="#FFFFFF10"/>
-      <path d="M40 0 L40 80" stroke="#FFFFFF10"/>
-      <circle cx="40" cy="40" r="1.4" fill="#FFFFFF18"/>
+    <!-- LIGHT GRID -->
+    <pattern id="grid" width="45" height="45" patternUnits="userSpaceOnUse">
+      <path d="M45 0 L0 0 0 45" stroke="#FFFFFF05" fill="none"/>
     </pattern>
 
-    <!-- Fine grid (secondary layer) -->
-    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
-      <path d="M40 0 L0 0 0 40" stroke="#FFFFFF08" fill="none"/>
+    <!-- FIXED MESH (stronger contrast, not hidden anymore) -->
+    <pattern id="mesh" width="90" height="90" patternUnits="userSpaceOnUse">
+      <path d="M0 0 L90 0 L90 90 L0 90 Z" fill="none" stroke="#FFFFFF14" stroke-width="1"/>
+      <path d="M0 45 L90 45" stroke="#FFFFFF10"/>
+      <path d="M45 0 L45 90" stroke="#FFFFFF10"/>
+      <circle cx="45" cy="45" r="1.3" fill="#FFFFFF20"/>
     </pattern>
 
-    <!-- Noise -->
     <filter id="noise">
-      <feTurbulence type="fractalNoise" baseFrequency="0.75" numOctaves="2"/>
+      <feTurbulence type="fractalNoise" baseFrequency="0.7" numOctaves="2"/>
       <feColorMatrix type="matrix"
-        values="
-        0 0 0 0 0
-        0 0 0 0 0
-        0 0 0 0 0
-        0 0 0 .03 0"/>
+        values="0 0 0 0 0
+                0 0 0 0 0
+                0 0 0 0 0
+                0 0 0 .02 0"/>
     </filter>
   </defs>
 
   <!-- Background -->
   <rect width="100%" height="100%" fill="url(#bg)"/>
-  <rect width="100%" height="100%" fill="url(#mesh)" opacity="0.9"/>
-  <rect width="100%" height="100%" fill="url(#grid)" opacity="0.7"/>
-  <rect width="100%" height="100%" filter="url(#noise)" opacity="0.35"/>
 
-  <!-- Diagonal energy sweep (kept) -->
+  <!-- IMPORTANT FIX: mesh ABOVE background so it doesn't get buried -->
+  <rect width="100%" height="100%" fill="url(#mesh)" opacity="0.55"/>
+
+  <rect width="100%" height="100%" fill="url(#grid)" opacity="0.5"/>
+  <rect width="100%" height="100%" filter="url(#noise)" opacity="0.25"/>
+
+  <!-- Diagonal sweep -->
   <rect x="-300" y="0" width="220" height="260"
         fill="#FFFFFF"
-        opacity="0.04"
+        opacity="0.03"
         transform="skewX(-20)">
-    <animate attributeName="x"
-             from="-300"
-             to="1200"
-             dur="7s"
-             repeatCount="indefinite"/>
+    <animate attributeName="x" from="-300" to="1200" dur="7s" repeatCount="indefinite"/>
   </rect>
 
   <!-- Frame -->
-  <path d="M30 40 L30 15 L60 15" stroke="#D6DCE2" stroke-width="1.3"/>
-  <path d="M970 40 L970 15 L940 15" stroke="#D6DCE2" stroke-width="1.3"/>
-  <path d="M30 220 L30 245 L60 245" stroke="#D6DCE2" stroke-width="1.3"/>
-  <path d="M970 220 L970 245 L940 245" stroke="#D6DCE2" stroke-width="1.3"/>
+  <path d="M30 40 L30 15 L60 15" stroke="#D6DCE2" stroke-width="1.2"/>
+  <path d="M970 40 L970 15 L940 15" stroke="#D6DCE2" stroke-width="1.2"/>
+  <path d="M30 220 L30 245 L60 245" stroke="#D6DCE2" stroke-width="1.2"/>
+  <path d="M970 220 L970 245 L940 245" stroke="#D6DCE2" stroke-width="1.2"/>
 
-  <!-- NAME (dimmer + more engraved feel) -->
+  <!-- Name -->
   <text x="50%" y="110"
         text-anchor="middle"
         font-size="56"
@@ -86,13 +80,13 @@
     Osasan Olusola
   </text>
 
-  <!-- Divider (subtle, not glowing too much) -->
+  <!-- Divider -->
   <line x1="290" y1="130" x2="710" y2="130"
         stroke="#D6DCE2"
-        stroke-width="1.6"
-        opacity="0.55">
+        stroke-width="1.4"
+        opacity="0.5">
     <animate attributeName="opacity"
-             values="0.25;0.65;0.25"
+             values="0.25;0.6;0.25"
              dur="3s"
              repeatCount="indefinite"/>
   </line>
@@ -107,20 +101,14 @@
     FULL STACK DEVELOPER • SOFTWARE ENGINEER
   </text>
 
-  <!-- Particles (slightly increased, but controlled) -->
+  <!-- Particles -->
   <g opacity="0.9">
-    <circle cx="110" cy="70" r="1.4" fill="#FFFFFF"/>
-    <circle cx="180" cy="120" r="1.2" fill="#C9D1D9"/>
-    <circle cx="240" cy="80" r="1.3" fill="#FFFFFF"/>
-    <circle cx="320" cy="170" r="1.2" fill="#B9C2CC"/>
-    <circle cx="410" cy="60" r="1.4" fill="#FFFFFF"/>
-    <circle cx="480" cy="140" r="1.2" fill="#C9D1D9"/>
-    <circle cx="540" cy="95" r="1.3" fill="#FFFFFF"/>
-    <circle cx="610" cy="180" r="1.2" fill="#B9C2CC"/>
-    <circle cx="690" cy="75" r="1.4" fill="#FFFFFF"/>
-    <circle cx="760" cy="150" r="1.2" fill="#C9D1D9"/>
-    <circle cx="840" cy="90" r="1.3" fill="#FFFFFF"/>
-    <circle cx="910" cy="160" r="1.2" fill="#B9C2CC"/>
+    <circle cx="120" cy="70" r="1.3" fill="#FFFFFF"/>
+    <circle cx="240" cy="80" r="1.2" fill="#C9D1D9"/>
+    <circle cx="410" cy="60" r="1.3" fill="#FFFFFF"/>
+    <circle cx="540" cy="95" r="1.2" fill="#C9D1D9"/>
+    <circle cx="690" cy="75" r="1.3" fill="#FFFFFF"/>
+    <circle cx="840" cy="90" r="1.2" fill="#C9D1D9"/>
   </g>
 
 </svg>
