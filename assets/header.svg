@@ -1,89 +1,133 @@
-<svg width="100%" height="240" viewBox="0 0 1000 240" xmlns="http://www.w3.org/2000/svg">
+<svg width="100%" height="260" viewBox="0 0 1000 260" xmlns="http://www.w3.org/2000/svg">
 
   <defs>
     <!-- Background -->
     <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#0A0A0A"/>
-      <stop offset="50%" stop-color="#121212"/>
-      <stop offset="100%" stop-color="#080808"/>
+      <stop offset="0%" stop-color="#050505"/>
+      <stop offset="50%" stop-color="#0C0C0F"/>
+      <stop offset="100%" stop-color="#070709"/>
     </linearGradient>
 
-    <!-- Accent (neutral platinum + soft pink) -->
-    <linearGradient id="accent" x1="0%" y1="0%" x2="100%">
-      <stop offset="0%" stop-color="#EAEAEA"/>
-      <stop offset="50%" stop-color="#F2C6CF"/>
-      <stop offset="100%" stop-color="#FFFFFF"/>
+    <!-- Platinum core -->
+    <linearGradient id="platinum" x1="0%" y1="0%" x2="100%">
+      <stop offset="0%" stop-color="#F5F7FA"/>
+      <stop offset="50%" stop-color="#FFFFFF"/>
+      <stop offset="100%" stop-color="#C9D1D9"/>
     </linearGradient>
 
     <!-- Glow -->
     <filter id="glow">
-      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feGaussianBlur stdDeviation="2.3" result="blur"/>
       <feMerge>
         <feMergeNode in="blur"/>
         <feMergeNode in="SourceGraphic"/>
       </feMerge>
     </filter>
 
-    <!-- Subtle grid -->
+    <!-- Grid -->
     <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
-      <path d="M40 0 L0 0 0 40" stroke="#ffffff08" fill="none"/>
+      <path d="M40 0 L0 0 0 40" stroke="#FFFFFF07" fill="none"/>
     </pattern>
+
+    <!-- Mesh network pattern -->
+    <pattern id="mesh" width="120" height="120" patternUnits="userSpaceOnUse">
+      <path d="M0 60 L120 60" stroke="#FFFFFF06" />
+      <path d="M60 0 L60 120" stroke="#FFFFFF06" />
+      <circle cx="60" cy="60" r="1.2" fill="#FFFFFF10"/>
+    </pattern>
+
+    <!-- Subtle noise -->
+    <filter id="noise">
+      <feTurbulence type="fractalNoise" baseFrequency="0.8" numOctaves="2"/>
+      <feColorMatrix type="matrix"
+        values="
+        0 0 0 0 0
+        0 0 0 0 0
+        0 0 0 0 0
+        0 0 0 .025 0"/>
+    </filter>
   </defs>
 
-  <!-- Background -->
+  <!-- Background layers -->
   <rect width="100%" height="100%" fill="url(#bg)"/>
   <rect width="100%" height="100%" fill="url(#grid)"/>
+  <rect width="100%" height="100%" fill="url(#mesh)" opacity="0.7"/>
+  <rect width="100%" height="100%" filter="url(#noise)" opacity="0.4"/>
 
-  <!-- Animated scanning line -->
-  <rect x="-1000" y="0" width="400" height="240" fill="url(#accent)" opacity="0.05">
-    <animate attributeName="x" from="-400" to="1000" dur="6s" repeatCount="indefinite"/>
+  <!-- ONLY diagonal energy sweep (kept) -->
+  <rect x="-300" y="0" width="220" height="260"
+        fill="#FFFFFF"
+        opacity="0.03"
+        transform="skewX(-20)">
+    <animate attributeName="x"
+             from="-300"
+             to="1200"
+             dur="7s"
+             repeatCount="indefinite"/>
   </rect>
 
-  <!-- Corner UI brackets -->
-  <path d="M25 40 L25 20 L45 20" stroke="#F2C6CF" stroke-width="2"/>
-  <path d="M975 40 L975 20 L955 20" stroke="#F2C6CF" stroke-width="2"/>
-  <path d="M25 200 L25 220 L45 220" stroke="#F2C6CF" stroke-width="2"/>
-  <path d="M975 200 L975 220 L955 220" stroke="#F2C6CF" stroke-width="2"/>
+  <!-- Corner frame -->
+  <path d="M30 40 L30 15 L60 15" stroke="#E6EDF3" stroke-width="1.5"/>
+  <path d="M970 40 L970 15 L940 15" stroke="#E6EDF3" stroke-width="1.5"/>
+  <path d="M30 220 L30 245 L60 245" stroke="#E6EDF3" stroke-width="1.5"/>
+  <path d="M970 220 L970 245 L940 245" stroke="#E6EDF3" stroke-width="1.5"/>
 
   <!-- NAME -->
-  <text x="50%" y="100"
+  <text x="50%" y="110"
         text-anchor="middle"
-        font-size="52"
-        font-weight="800"
-        letter-spacing="2"
-        fill="url(#accent)"
-        font-family="Segoe UI, Arial, sans-serif"
+        font-size="56"
+        font-weight="900"
+        letter-spacing="3"
+        fill="url(#platinum)"
+        font-family="Segoe UI, Inter, Arial, sans-serif"
         filter="url(#glow)">
     Osasan Olusola
   </text>
 
-  <!-- Divider line under name -->
-  <line x1="300" y1="120" x2="700" y2="120"
-        stroke="url(#accent)"
+  <!-- Divider -->
+  <line x1="290" y1="130" x2="710" y2="130"
+        stroke="url(#platinum)"
         stroke-width="2"
-        opacity="0.7">
-    <animate attributeName="opacity" values="0.3;0.8;0.3" dur="3s" repeatCount="indefinite"/>
+        opacity="0.75">
+    <animate attributeName="opacity"
+             values="0.25;0.85;0.25"
+             dur="2.8s"
+             repeatCount="indefinite"/>
   </line>
 
   <!-- Subtitle -->
-  <text x="50%" y="155"
+  <text x="50%" y="175"
         text-anchor="middle"
-        font-size="16"
-        letter-spacing="3"
-        fill="#D6D6D6"
-        font-family="Segoe UI, Arial, sans-serif">
+        font-size="15"
+        letter-spacing="4"
+        fill="#C9D1D9"
+        font-family="Segoe UI, Inter, Arial, sans-serif">
     FULL STACK DEVELOPER • SOFTWARE ENGINEER
   </text>
 
-  <!-- Floating particles -->
-  <circle cx="150" cy="60" r="2" fill="#ffffff">
-    <animate attributeName="cy" values="60;40;60" dur="4s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="850" cy="80" r="2" fill="#F2C6CF">
-    <animate attributeName="cy" values="80;100;80" dur="5s" repeatCount="indefinite"/>
-  </circle>
-  <circle cx="750" cy="180" r="2" fill="#ffffff">
-    <animate attributeName="cy" values="180;160;180" dur="6s" repeatCount="indefinite"/>
-  </circle>
+  <!-- Increased particle system (more density, still clean) -->
+  <g>
+    <circle cx="120" cy="60" r="1.6" fill="#FFFFFF">
+      <animate attributeName="cy" values="60;45;60" dur="4s" repeatCount="indefinite"/>
+    </circle>
+
+    <circle cx="200" cy="140" r="1.3" fill="#DDE2E8">
+      <animate attributeName="cy" values="140;120;140" dur="5s" repeatCount="indefinite"/>
+    </circle>
+
+    <circle cx="280" cy="90" r="1.5" fill="#FFFFFF"/>
+    <circle cx="340" cy="180" r="1.2" fill="#C9D1D9"/>
+    <circle cx="420" cy="70" r="1.4" fill="#FFFFFF"/>
+    <circle cx="500" cy="150" r="1.2" fill="#E6EDF3"/>
+    <circle cx="560" cy="100" r="1.5" fill="#FFFFFF"/>
+    <circle cx="640" cy="190" r="1.3" fill="#C9D1D9"/>
+    <circle cx="720" cy="80" r="1.4" fill="#FFFFFF"/>
+    <circle cx="800" cy="130" r="1.2" fill="#E6EDF3"/>
+    <circle cx="880" cy="60" r="1.5" fill="#FFFFFF">
+      <animate attributeName="cy" values="60;80;60" dur="6s" repeatCount="indefinite"/>
+    </circle>
+
+    <circle cx="940" cy="170" r="1.3" fill="#DDE2E8"/>
+  </g>
 
 </svg>
