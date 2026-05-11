@@ -39,32 +39,10 @@
 <h3>TECH STACK</h3>
 </div>
 
-<div align="center">
-  
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JAVASCRIPT-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TYPESCRIPT-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-REACT-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-NEXT.JS-000000?style=flat-square&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/-NODE.JS-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-EXPRESS-000000?style=flat-square&logo=express&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-POSTGRESQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/-SQLITE-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![Supabase](https://img.shields.io/badge/-SUPABASE-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/-FIREBASE-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Vercel](https://img.shields.io/badge/-VERCEL-000000?style=flat-square&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/-RENDER-2E8B8B?style=flat-square&logo=render&logoColor=white)
-![Git](https://img.shields.io/badge/-GIT-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GITHUB-000000?style=flat-square&logo=github&logoColor=white)
-
-</div>
-
 <table align="center">
   <tr>
     <td align="center"  width="116">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="html" />
       <br>HTML5
     </td>
     <td align="center" width="116">
@@ -72,15 +50,15 @@
       <br>CSS3
     </td>
     <td align="center" width="116">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="javascript" />
       <br>JAVASCRIPT
     </td>
     <td align="center" width="116">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="65" height="65" alt="NodeJS" />
+        <img src="https://skillicons.dev/icons?i=nodejs" width="60" height="60" alt="nodejs" />
        <br>NODE.JS
     </td>
     <td align="center" width="116">
-        <img src="https://skillicons.dev/icons?i=express" width="65" height="65" alt="Express" />
+        <img src="https://skillicons.dev/icons?i=express" width="60" height="60" alt="express" />
       <br>EXPRESS 
     </td>
     <td align="center" width="116">
@@ -90,7 +68,7 @@
   </tr>
   <tr>
     <td align="center" width="116">
-        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://skillicons.dev/icons?i=typescript" width="48" height="48" alt="typescript" />
       <br>TYPESCRIPT
     </td>
     <td align="center" width="116">
