@@ -19,7 +19,7 @@
   <img src="https://static.wikia.nocookie.net/houkai-star-rail/images/f/f1/Sticker_PPG_23_Phainon_01.png/revision/latest?cb=20250702051616" width="75px" align="center">
   <img src="https://static.wikia.nocookie.net/houkai-star-rail/images/7/72/Sticker_PPG_23_Phainon_02.png/revision/latest?cb=20250702051616" width="75px" align="center">
   <img src="https://static.wikia.nocookie.net/houkai-star-rail/images/f/fb/Sticker_PPG_23_Phainon_04.png/revision/latest?cb=20250702051617" width="75px" align="center">
-  <img src="https://static.wikia.nocookie.net/houkai-star-rail/images/2/2b/Sticker_PPG_19_Sunday_01.png/revision/latest?cb=20250117051616" width="75px" align="center">
+  <img src="https://static.wikia.nocookie.net/houkai-star-rail/images/f/f3/Sticker_PPG_20_Aglaea_03.png/revision/latest?cb=20250117052436" width="75px" align="center">
   <img src="https://static.wikia.nocookie.net/houkai-star-rail/images/d/df/Sticker_PPG_24_Evernight_04.png/revision/latest?cb=20250926184809" width="75px" align="center">
   <img src="https://static.wikia.nocookie.net/houkai-star-rail/images/d/d2/Sticker_PPG_24_Evernight_03.png/revision/latest?cb=20250926184841" width="75px" align="center">
   <img src="https://static.wikia.nocookie.net/houkai-star-rail/images/b/b5/Sticker_PPG_24_Evernight_01.png/revision/latest?cb=20250926184810" width="75px" align="center"> <br>
