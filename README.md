@@ -33,30 +33,27 @@
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%"/>
 
 <div align="center">
 <h3>𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐄𝐑 𝐌𝐄𝐓𝐑𝐈𝐂𝐒</h3>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=incognito-dev07&theme=tokyonight&hide_border=false&border=0B1F3A&background=0D1117&stroke=2F80ED&ring=2F80ED&fire=FF6B6B&currStreakLabel=2F80ED&sideLabels=C9D1D9" width="60%" />
+  
+<table><tr><td>
+<img src="https://github-readme-stats-fast.vercel.app/api?username=incognito-dev07&show_icons=true&count_private=true&title_color=ec4899&text_color=ffffff&icon_color=a855f7&bg_color=0d1117&hide_border=true&card_width=320" height="175"/>
+</td><td>
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=incognito-dev07&langs_count=8&layout=compact&title_color=ec4899&text_color=ffffff&icon_color=a855f7&bg_color=0d1117&hide_border=true&custom_title=Top%20Languages&card_width=320" height="175"/>
+</td></tr></table>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=incognito-dev07&theme=dark&background=0d1117&ring=ec4899&fire=a855f7&currStreakLabel=ec4899&sideLabels=a855f7&currStreakNum=ffffff&sideNums=ffffff&dates=666666&hide_border=true&card_width=660" height="175"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=incognito-dev07&bg_color=0d1117&color=a855f7&line=ec4899&point=ffffff&area=true&area_color=ec4899&hide_border=true&custom_title=Contribution%20Graph" width="100%"/>
+
 </div>
 
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=incognito-dev07&theme=tokyo-night&bg_color=0D1117&hide_border=true&color=2F80ED&line=2F80ED&point=FF6B6B&area=true&cache=0" width="100%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=incognito-dev07&show_icons=true&theme=tokyonight&hide_border=false&border_color=2F80ED&bg_color=0D1117&title_color=2F80ED&icon_color=2F80ED&text_color=C9D1D9&count_private=true&include_all_commits=true" width="56%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=incognito-dev07&layout=compact&theme=tokyonight&hide_border=false&border_color=2F80ED&bg_color=0D1117&title_color=2F80ED&text_color=C9D1D9&langs_count=8&hide=html,css" width="40%" />
-</div>
-
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%"/>
 
 <div align="center">
 <h3>𝐂𝐎𝐍𝐓𝐑𝐈𝐁𝐔𝐓𝐈𝐎𝐍 𝐓𝐑𝐀𝐈𝐋</h3>
