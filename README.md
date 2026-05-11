@@ -42,20 +42,6 @@
   <img src="https://img.shields.io/badge/-PUBLIC%20REPOS-000000?style=flat-square&logo=github&logoColor=white" />
 </div>
 
-<br>
-
-<div align="center">
-  <a href="https://wa.me/2349065168872">
-    <img src="https://img.shields.io/badge/-WHATSAPP-25D366?style=flat-square&logo=whatsapp&logoColor=white" />
-  </a>
-  <a href="https://www.facebook.com/share/1DhuznNtgr/">
-    <img src="https://img.shields.io/badge/-FACEBOOK-1877F2?style=flat-square&logo=facebook&logoColor=white" />
-  </a>
-  <a href="https://youtube.com/@incognito-dev07">
-    <img src="https://img.shields.io/badge/-YOUTUBE-FF0000?style=flat-square&logo=youtube&logoColor=white" />
-  </a>
-</div>
-
 ---
 
 <div align="center">
