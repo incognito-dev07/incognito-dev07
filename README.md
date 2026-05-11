@@ -36,60 +36,60 @@
 ---
 
 <div align="center">
-<h3>TECH STACK</h3>
+<h3>𝐓𝐄𝐂𝐇 𝐒𝐓𝐀𝐂𝐊</h3>
 </div>
 
 <table align="center">
   <tr>
     <td align="center"  width="116">
       <img src="https://skillicons.dev/icons?i=html" width="54" height="54" alt="html" />
-      <br>HTML5
+      <br>𝐇𝐓𝐌𝐋
     </td>
     <td align="center" width="116">
       <img src="https://skillicons.dev/icons?i=css" width="54" height="54" alt="css" />
-      <br>CSS3
+      <br>𝐂𝐒𝐒
     </td>
     <td align="center" width="116">
       <img src="https://skillicons.dev/icons?i=javascript" width="54" height="54" alt="javascript" />
-      <br>JAVASCRIPT 
+      <br>𝐉𝐀𝐕𝐀𝐒𝐂𝐑𝐈𝐏𝐓
     </td>
     <td align="center" width="116">
       <img src="https://skillicons.dev/icons?i=nodejs" width="60" height="60" alt="nodejs" />
-      <br>NODE.JS
+      <br>𝐍𝐎𝐃𝐄.𝐉𝐒
     </td>
     <td align="center" width="116">
       <img src="https://skillicons.dev/icons?i=express" width="60" height="60" alt="express" />
-      <br>EXPRESS
+      <br>𝐄𝐗𝐏𝐑𝐄𝐒𝐒
     </td>
     <td align="center" width="116">
       <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="60" height="60" />
-      <br>REACT
+      <br>𝐑𝐄𝐀𝐂𝐓
     </td>
   </tr>
   <tr>
     <td align="center" width="116">
       <img src="https://skillicons.dev/icons?i=typescript" width="54" height="54" alt="typescript" />
-      <br>TYPESCRIPT 
+      <br>𝐓𝐘𝐏𝐄𝐒𝐂𝐑𝐈𝐏𝐓
     </td>
     <td align="center" width="116">
       <img src="https://skillicons.dev/icons?i=nextjs" width="65" height="65" alt="NextJS" />
-      <br>NEXT.JS 
+      <br>𝐍𝐄𝐗𝐓.𝐉𝐒
     </td>
     <td align="center" width="116">
       <img src="https://skillicons.dev/icons?i=postgres" width="65" height="65" alt="PostgreSQL" />
-      <br>POSTGRESQL 
+      <br>𝐏𝐎𝐒𝐓𝐆𝐑𝐄𝐒𝐐𝐋
     </td>
     <td align="center" width="116">
       <img src="https://skillicons.dev/icons?i=supabase" width="65" height="65" alt="Supabase" />
-      <br>SUPABASE 
+      <br>𝐒𝐔𝐏𝐀𝐁𝐀𝐒𝐄
     </td>
     <td align="center" width="116"> 
       <img src="https://skillicons.dev/icons?i=git" width="54" height="54" alt="git" />
-      <br>GIT
+      <br>𝐆𝐈𝐓
     </td>
     <td align="center" width="116">
         <img src="https://skillicons.dev/icons?i=github" width="60" height="60" alt="github" />
-        <br>GITHUB
+        <br>𝐆𝐈𝐓𝐇𝐔𝐁
     </td>
   </tr>
 </table>
@@ -97,7 +97,7 @@
 ---
 
 <div align="center">
-<h3>DEVELOPER METRICS</h3>
+<h3>𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐄𝐑 𝐌𝐄𝐓𝐑𝐈𝐂𝐒</h3>
 </div>
 
 <div align="center">
@@ -120,7 +120,7 @@
 ---
 
 <div align="center">
-<h3>CONTRIBUTION TRAIL</h3>
+<h3>𝐂𝐎𝐍𝐓𝐑𝐈𝐁𝐔𝐓𝐈𝐎𝐍 𝐓𝐑𝐀𝐈𝐋</h3>
 </div>
 
 <div align="center">
@@ -142,5 +142,5 @@
 </div>
 
 <div align="center">
-  <b>⚡ Building the modern web, one component at a time.</b>
+  <b>⚡ 𝐁𝐮𝐢𝐥𝐝𝐢𝐧𝐠 𝐭𝐡𝐞 𝐦𝐨𝐝𝐞𝐫𝐧 𝐰𝐞𝐛, 𝐨𝐧𝐞 𝐜𝐨𝐦𝐩𝐨𝐧𝐞𝐧𝐭 𝐚𝐭 𝐚 𝐭𝐢𝐦𝐞.</b>
 </div>
