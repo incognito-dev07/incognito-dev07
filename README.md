@@ -108,7 +108,11 @@
 
 ---
 
+<div align="center">
+
 ![`incognito-dev07`'s GitHub count](https://count.getloli.com/get/@incognito-dev07.github.readme)
+
+</div>
 
 ---
 
