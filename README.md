@@ -16,12 +16,17 @@
 
 <div align="center">
   
-  <img src="https://static.wikia.nocookie.net/houkai-star-rail/images/5/57/Sticker_PPG_26_Sparxie_02.png/revision/latest?cb=20260213044756" width="75px" align="center">
-  <img src="https://static.wikia.nocookie.net/houkai-star-rail/images/7/74/Sticker_PPG_26_Sparxie_01.png/revision/latest?cb=20260213044756" width="75px" align="center"> 
-  <img src="https://static.wikia.nocookie.net/houkai-star-rail/images/9/96/Sticker_PPG_26_Sparxie_04.png/revision/latest?cb=20260213044756" width="75px" align="center">
   <img src="https://static.wikia.nocookie.net/houkai-star-rail/images/f/f1/Sticker_PPG_23_Phainon_01.png/revision/latest?cb=20250702051616" width="75px" align="center">
   <img src="https://static.wikia.nocookie.net/houkai-star-rail/images/7/72/Sticker_PPG_23_Phainon_02.png/revision/latest?cb=20250702051616" width="75px" align="center">
   <img src="https://static.wikia.nocookie.net/houkai-star-rail/images/f/fb/Sticker_PPG_23_Phainon_04.png/revision/latest?cb=20250702051617" width="75px" align="center">
+  <img src="https://static.wikia.nocookie.net/houkai-star-rail/images/5/53/Sticker_PPG_10_Huohuo_01.png/revision/latest?cb=20231109231234" width="75px" align="center">
+  <img src="https://static.wikia.nocookie.net/houkai-star-rail/images/b/bf/Sticker_PPG_19_Sunday_04.png/revision/latest?cb=20250117051746" width="75px" align="center">
+  <img src="https://static.wikia.nocookie.net/houkai-star-rail/images/d/d7/Sticker_PPG_19_Sunday_02.png/revision/latest?cb=20250117051653" width="75px" align="center">
+  <img src="https://static.wikia.nocookie.net/houkai-star-rail/images/2/2b/Sticker_PPG_19_Sunday_01.png/revision/latest?cb=20250117051616" width="75px" align="center"> <br>
+  <img src="https://static.wikia.nocookie.net/houkai-star-rail/images/5/57/Sticker_PPG_26_Sparxie_02.png/revision/latest?cb=20260213044756" width="75px" align="center">
+  <img src="https://static.wikia.nocookie.net/houkai-star-rail/images/7/74/Sticker_PPG_26_Sparxie_01.png/revision/latest?cb=20260213044756" width="75px" align="center"> 
+  <img src="https://static.wikia.nocookie.net/houkai-star-rail/images/9/96/Sticker_PPG_26_Sparxie_04.png/revision/latest?cb=20260213044756" width="75px" align="center">
+  <img src="https://static.wikia.nocookie.net/houkai-star-rail/images/3/35/Sticker_PPG_17_Moze_03.png/revision/latest?cb=20241023134756" width="75px" align="center">
   <img src="https://static.wikia.nocookie.net/houkai-star-rail/images/3/3b/Sticker_PPG_15_Firefly_01.png/revision/latest?cb=20240802020558" width="75px" align="center">
   <img src="https://static.wikia.nocookie.net/houkai-star-rail/images/c/c0/Sticker_PPG_15_Firefly_02.png/revision/latest?cb=20240802020609" width="75px" align="center">
   <img src="https://static.wikia.nocookie.net/houkai-star-rail/images/a/ac/Sticker_PPG_15_Firefly_03.png/revision/latest?cb=20240802020619" width="75px" align="center">
