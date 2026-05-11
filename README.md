@@ -36,9 +36,9 @@
 <br>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=incognito-dev07&label=PROFILE+VIEWS&style=flat-square&color=2F80ED" />
-  <img src="https://img.shields.io/github/followers/incognito-dev07?label=FOLLOWERS&style=flat-square&color=2F80ED" />
-  <img src="https://img.shields.io/github/stars/incognito-dev07?affiliations=OWNER%2CCOLLABORATOR&label=STARS&style=flat-square&color=2F80ED" />
+  <img src="https://komarev.com/ghpvc/?username=incognito-dev07&label=PROFILE+VIEWS&style=flat-square&color=000000" />
+  <img src="https://img.shields.io/github/followers/incognito-dev07?label=FOLLOWERS&style=flat-square&color=000000" />
+  <img src="https://img.shields.io/github/stars/incognito-dev07?affiliations=OWNER%2CCOLLABORATOR&label=STARS&style=flat-square&color=000000" />
   <img src="https://img.shields.io/badge/-PUBLIC%20REPOS-000000?style=flat-square&logo=github&logoColor=white" />
 </div>
 
