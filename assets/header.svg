@@ -1,16 +1,89 @@
-<svg width="100%" height="200" viewBox="0 0 1000 200" xmlns="http://www.w3.org/2000/svg">
+<svg width="100%" height="240" viewBox="0 0 1000 240" xmlns="http://www.w3.org/2000/svg">
+
   <defs>
-    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#145fc3"/>
-      <stop offset="100%" stop-color="#0B1F3A"/>
+    <!-- Background -->
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0A0A0A"/>
+      <stop offset="50%" stop-color="#121212"/>
+      <stop offset="100%" stop-color="#080808"/>
     </linearGradient>
+
+    <!-- Accent (neutral platinum + soft pink) -->
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%">
+      <stop offset="0%" stop-color="#EAEAEA"/>
+      <stop offset="50%" stop-color="#F2C6CF"/>
+      <stop offset="100%" stop-color="#FFFFFF"/>
+    </linearGradient>
+
+    <!-- Glow -->
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <!-- Subtle grid -->
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0 L0 0 0 40" stroke="#ffffff08" fill="none"/>
+    </pattern>
   </defs>
-  <rect width="100%" height="100%" fill="url(#grad)" />
-  <path d="M0,150 C250,200 750,100 1000,150 L1000,200 L0,200 Z" fill="#0A1930"/>
-  <text x="50%" y="80" text-anchor="middle" font-size="45" fill="#FFFFFF" font-family="Segoe UI, Arial, sans-serif" font-weight="bold">
+
+  <!-- Background -->
+  <rect width="100%" height="100%" fill="url(#bg)"/>
+  <rect width="100%" height="100%" fill="url(#grid)"/>
+
+  <!-- Animated scanning line -->
+  <rect x="-1000" y="0" width="400" height="240" fill="url(#accent)" opacity="0.05">
+    <animate attributeName="x" from="-400" to="1000" dur="6s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Corner UI brackets -->
+  <path d="M25 40 L25 20 L45 20" stroke="#F2C6CF" stroke-width="2"/>
+  <path d="M975 40 L975 20 L955 20" stroke="#F2C6CF" stroke-width="2"/>
+  <path d="M25 200 L25 220 L45 220" stroke="#F2C6CF" stroke-width="2"/>
+  <path d="M975 200 L975 220 L955 220" stroke="#F2C6CF" stroke-width="2"/>
+
+  <!-- NAME -->
+  <text x="50%" y="100"
+        text-anchor="middle"
+        font-size="52"
+        font-weight="800"
+        letter-spacing="2"
+        fill="url(#accent)"
+        font-family="Segoe UI, Arial, sans-serif"
+        filter="url(#glow)">
     Osasan Olusola
   </text>
-  <text x="50%" y="120" text-anchor="middle" font-size="18" fill="#E0E0E0" font-family="Segoe UI, Arial, sans-serif">
-    Full Stack Developer
+
+  <!-- Divider line under name -->
+  <line x1="300" y1="120" x2="700" y2="120"
+        stroke="url(#accent)"
+        stroke-width="2"
+        opacity="0.7">
+    <animate attributeName="opacity" values="0.3;0.8;0.3" dur="3s" repeatCount="indefinite"/>
+  </line>
+
+  <!-- Subtitle -->
+  <text x="50%" y="155"
+        text-anchor="middle"
+        font-size="16"
+        letter-spacing="3"
+        fill="#D6D6D6"
+        font-family="Segoe UI, Arial, sans-serif">
+    FULL STACK DEVELOPER • SOFTWARE ENGINEER
   </text>
+
+  <!-- Floating particles -->
+  <circle cx="150" cy="60" r="2" fill="#ffffff">
+    <animate attributeName="cy" values="60;40;60" dur="4s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="850" cy="80" r="2" fill="#F2C6CF">
+    <animate attributeName="cy" values="80;100;80" dur="5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="750" cy="180" r="2" fill="#ffffff">
+    <animate attributeName="cy" values="180;160;180" dur="6s" repeatCount="indefinite"/>
+  </circle>
+
 </svg>
