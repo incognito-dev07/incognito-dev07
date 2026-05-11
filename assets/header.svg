@@ -74,9 +74,9 @@
   <!-- Name -->
   <text x="50%" y="110"
         text-anchor="middle"
-        font-size="56"
+        font-size="60"
         font-weight="800"
-        letter-spacing="3"
+        letter-spacing="4"
         fill="url(#platinum)"
         opacity="0.92"
         font-family="Segoe UI, Inter, Arial, sans-serif"
@@ -102,7 +102,7 @@
         letter-spacing="4"
         fill="#AEB7C2"
         font-family="Segoe UI, Inter, Arial, sans-serif">
-    CURRENTLY STUDYING SOFTWARE ENGINEERING AT FUTA
+    STUDYING SOFTWARE ENGINEERING AT FUTA
   </text>
 
   <!-- Particles -->
