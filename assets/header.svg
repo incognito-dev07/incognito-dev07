@@ -21,12 +21,10 @@
       </feMerge>
     </filter>
 
-    <!-- LIGHT GRID -->
     <pattern id="grid" width="45" height="45" patternUnits="userSpaceOnUse">
       <path d="M45 0 L0 0 0 45" stroke="#FFFFFF05" fill="none"/>
     </pattern>
 
-    <!-- FIXED MESH (stronger contrast, not hidden anymore) -->
     <pattern id="mesh" width="90" height="90" patternUnits="userSpaceOnUse">
       <path d="M0 0 L90 0 L90 90 L0 90 Z" fill="none" stroke="#FFFFFF14" stroke-width="1"/>
       <path d="M0 45 L90 45" stroke="#FFFFFF10"/>
@@ -42,14 +40,20 @@
                 0 0 0 0 0
                 0 0 0 .02 0"/>
     </filter>
+
+    <!-- Bottom fade border -->
+    <linearGradient id="bottomFade" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#D6DCE2" stop-opacity="0"/>
+      <stop offset="20%" stop-color="#D6DCE2" stop-opacity="0.4"/>
+      <stop offset="50%" stop-color="#D6DCE2" stop-opacity="0.7"/>
+      <stop offset="80%" stop-color="#D6DCE2" stop-opacity="0.4"/>
+      <stop offset="100%" stop-color="#D6DCE2" stop-opacity="0"/>
+    </linearGradient>
   </defs>
 
   <!-- Background -->
   <rect width="100%" height="100%" fill="url(#bg)"/>
-
-  <!-- IMPORTANT FIX: mesh ABOVE background so it doesn't get buried -->
   <rect width="100%" height="100%" fill="url(#mesh)" opacity="0.55"/>
-
   <rect width="100%" height="100%" fill="url(#grid)" opacity="0.5"/>
   <rect width="100%" height="100%" filter="url(#noise)" opacity="0.25"/>
 
@@ -61,11 +65,11 @@
     <animate attributeName="x" from="-300" to="1200" dur="7s" repeatCount="indefinite"/>
   </rect>
 
-  <!-- Frame -->
-  <path d="M30 40 L30 15 L60 15" stroke="#D6DCE2" stroke-width="1.2"/>
-  <path d="M970 40 L970 15 L940 15" stroke="#D6DCE2" stroke-width="1.2"/>
-  <path d="M30 220 L30 245 L60 245" stroke="#D6DCE2" stroke-width="1.2"/>
-  <path d="M970 220 L970 245 L940 245" stroke="#D6DCE2" stroke-width="1.2"/>
+  <!-- CORNERS (clean stroke, no fill, slightly shorter) -->
+  <path d="M30 40 L30 18 L56 18" stroke="#D6DCE2" stroke-width="1.2" fill="none"/>
+  <path d="M970 40 L970 18 L944 18" stroke="#D6DCE2" stroke-width="1.2" fill="none"/>
+  <path d="M30 220 L30 242 L56 242" stroke="#D6DCE2" stroke-width="1.2" fill="none"/>
+  <path d="M970 220 L970 242 L944 242" stroke="#D6DCE2" stroke-width="1.2" fill="none"/>
 
   <!-- Name -->
   <text x="50%" y="110"
@@ -110,5 +114,8 @@
     <circle cx="690" cy="75" r="1.3" fill="#FFFFFF"/>
     <circle cx="840" cy="90" r="1.2" fill="#C9D1D9"/>
   </g>
+
+  <!-- BOTTOM INCOMPLETE FADE BORDER -->
+  <rect x="140" y="252" width="720" height="2" fill="url(#bottomFade)" opacity="0.9"/>
 
 </svg>
