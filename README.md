@@ -19,10 +19,10 @@
   <img src="https://static.wikia.nocookie.net/houkai-star-rail/images/f/f1/Sticker_PPG_23_Phainon_01.png/revision/latest?cb=20250702051616" width="75px" align="center">
   <img src="https://static.wikia.nocookie.net/houkai-star-rail/images/7/72/Sticker_PPG_23_Phainon_02.png/revision/latest?cb=20250702051616" width="75px" align="center">
   <img src="https://static.wikia.nocookie.net/houkai-star-rail/images/f/fb/Sticker_PPG_23_Phainon_04.png/revision/latest?cb=20250702051617" width="75px" align="center">
-  <img src="https://static.wikia.nocookie.net/houkai-star-rail/images/5/53/Sticker_PPG_10_Huohuo_01.png/revision/latest?cb=20231109231234" width="75px" align="center">
-  <img src="https://static.wikia.nocookie.net/houkai-star-rail/images/b/bf/Sticker_PPG_19_Sunday_04.png/revision/latest?cb=20250117051746" width="75px" align="center">
-  <img src="https://static.wikia.nocookie.net/houkai-star-rail/images/d/d7/Sticker_PPG_19_Sunday_02.png/revision/latest?cb=20250117051653" width="75px" align="center">
-  <img src="https://static.wikia.nocookie.net/houkai-star-rail/images/2/2b/Sticker_PPG_19_Sunday_01.png/revision/latest?cb=20250117051616" width="75px" align="center"> <br>
+  <img src="https://static.wikia.nocookie.net/houkai-star-rail/images/2/2b/Sticker_PPG_19_Sunday_01.png/revision/latest?cb=20250117051616" width="75px" align="center">
+  <img src="https://static.wikia.nocookie.net/houkai-star-rail/images/d/df/Sticker_PPG_24_Evernight_04.png/revision/latest?cb=20250926184809" width="75px" align="center">
+  <img src="https://static.wikia.nocookie.net/houkai-star-rail/images/d/d2/Sticker_PPG_24_Evernight_03.png/revision/latest?cb=20250926184841" width="75px" align="center">
+  <img src="https://static.wikia.nocookie.net/houkai-star-rail/images/b/b5/Sticker_PPG_24_Evernight_01.png/revision/latest?cb=20250926184810" width="75px" align="center"> <br>
   <img src="https://static.wikia.nocookie.net/houkai-star-rail/images/5/57/Sticker_PPG_26_Sparxie_02.png/revision/latest?cb=20260213044756" width="75px" align="center">
   <img src="https://static.wikia.nocookie.net/houkai-star-rail/images/7/74/Sticker_PPG_26_Sparxie_01.png/revision/latest?cb=20260213044756" width="75px" align="center"> 
   <img src="https://static.wikia.nocookie.net/houkai-star-rail/images/9/96/Sticker_PPG_26_Sparxie_04.png/revision/latest?cb=20260213044756" width="75px" align="center">
