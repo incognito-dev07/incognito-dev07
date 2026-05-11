@@ -43,41 +43,53 @@
   <tr>
     <td align="center"  width="116">
       <img src="https://skillicons.dev/icons?i=html" width="54" height="54" alt="html" />
+      <br>HTML5
     </td>
     <td align="center" width="116">
       <img src="https://skillicons.dev/icons?i=css" width="54" height="54" alt="css" />
+      <br>CSS3
     </td>
     <td align="center" width="116">
       <img src="https://skillicons.dev/icons?i=javascript" width="54" height="54" alt="javascript" />
+      <br>JAVASCRIPT 
     </td>
     <td align="center" width="116">
       <img src="https://skillicons.dev/icons?i=nodejs" width="60" height="60" alt="nodejs" />
+      <br>NODE.JS
     </td>
     <td align="center" width="116">
-      <img src="https://skillicons.dev/icons?i=express" width="60" height="60" alt="express" /> 
+      <img src="https://skillicons.dev/icons?i=express" width="60" height="60" alt="express" />
+      <br>EXPRESS
     </td>
     <td align="center" width="116">
-      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="60" height="60" />
+      <br>REACT
     </td>
   </tr>
   <tr>
     <td align="center" width="116">
       <img src="https://skillicons.dev/icons?i=typescript" width="54" height="54" alt="typescript" />
+      <br>TYPESCRIPT 
     </td>
     <td align="center" width="116">
       <img src="https://skillicons.dev/icons?i=nextjs" width="65" height="65" alt="NextJS" />
+      <br>NEXT.JS 
     </td>
     <td align="center" width="116">
       <img src="https://skillicons.dev/icons?i=postgres" width="65" height="65" alt="PostgreSQL" />
+      <br>POSTGRESQL 
     </td>
     <td align="center" width="116">
       <img src="https://skillicons.dev/icons?i=supabase" width="65" height="65" alt="Supabase" />
+      <br>SUPABASE 
     </td>
     <td align="center" width="116"> 
-      <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="60" height="60" alt="Git" />
+      <img src="https://skillicons.dev/icons?i=git" width="54" height="54" alt="git" />
+      <br>GIT
     </td>
     <td align="center" width="116">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://skillicons.dev/icons?i=github" width="60" height="60" alt="github" />
+        <br>GITHUB
     </td>
   </tr>
 </table>
