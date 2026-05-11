@@ -3,13 +3,13 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=500&color=2F80ED&center=true&vCenter=true&width=700&lines=Building+scalable+full-stack+apps+with+JavaScript;Turning+complex+requirements+into+elegant+Node.js+solutions;Open+source+contributor+and+TS+community+enthusiast" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=500&color=D6DCE2&center=true&vCenter=true&width=700&lines=Building+scalable+full-stack+apps+with+JavaScript;Turning+complex+requirements+into+elegant+Node.js+solutions;Open+source+contributor+and+TS+community+enthusiast" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Monoton&size=50&duration=1&pause=999999&color=2F80ED&center=true&vCenter=true&width=800&lines=%3C%2F%3E" />
+  <img src="https://readme-typing-svg.demolab.com?font=Monoton&size=50&duration=1&pause=999999&color=afb6bc&center=true&vCenter=true&width=800&lines=%3C%2F%3E" />
 </div>
 
 <br>
