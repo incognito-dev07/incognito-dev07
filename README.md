@@ -42,54 +42,42 @@
 <table align="center">
   <tr>
     <td align="center"  width="116">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="html" />
-      <br>HTML5
+      <img src="https://skillicons.dev/icons?i=html" width="54" height="54" alt="html" />
     </td>
     <td align="center" width="116">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
-      <br>CSS3
+      <img src="https://skillicons.dev/icons?i=css" width="54" height="54" alt="css" />
     </td>
     <td align="center" width="116">
-        <img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="javascript" />
-      <br>JAVASCRIPT
+      <img src="https://skillicons.dev/icons?i=javascript" width="54" height="54" alt="javascript" />
     </td>
     <td align="center" width="116">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="60" height="60" alt="nodejs" />
-       <br>NODE.JS
+      <img src="https://skillicons.dev/icons?i=nodejs" width="60" height="60" alt="nodejs" />
     </td>
     <td align="center" width="116">
-        <img src="https://skillicons.dev/icons?i=express" width="60" height="60" alt="express" />
-      <br>EXPRESS 
+      <img src="https://skillicons.dev/icons?i=express" width="60" height="60" alt="express" /> 
     </td>
     <td align="center" width="116">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
-      <br>REACT
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
     </td>
   </tr>
   <tr>
     <td align="center" width="116">
-        <img src="https://skillicons.dev/icons?i=typescript" width="48" height="48" alt="typescript" />
-      <br>TYPESCRIPT
+      <img src="https://skillicons.dev/icons?i=typescript" width="54" height="54" alt="typescript" />
     </td>
     <td align="center" width="116">
-        <img src="https://skillicons.dev/icons?i=nextjs" width="65" height="65" alt="NextJS" />
-      <br>NEXT.JS
+      <img src="https://skillicons.dev/icons?i=nextjs" width="65" height="65" alt="NextJS" />
     </td>
     <td align="center" width="116">
-        <img src="https://skillicons.dev/icons?i=postgres" width="65" height="65" alt="PostgreSQL" />
-      <br>POSTGRESQL
+      <img src="https://skillicons.dev/icons?i=postgres" width="65" height="65" alt="PostgreSQL" />
     </td>
     <td align="center" width="116">
       <img src="https://skillicons.dev/icons?i=supabase" width="65" height="65" alt="Supabase" />
-      <br>SUPABASE
     </td>
     <td align="center" width="116"> 
-        <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="65" height="65" alt="Git" />
-      <br>GIT
+      <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" width="60" height="60" alt="Git" />
     </td>
     <td align="center" width="116">
         <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
-      <br>GITHUB
     </td>
   </tr>
 </table>
