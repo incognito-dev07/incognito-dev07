@@ -105,16 +105,6 @@
     STUDYING SOFTWARE ENGINEERING AT FUTA 
   </text>
 
-  <!-- Particles -->
-  <g opacity="0.9">
-    <circle cx="120" cy="70" r="1.3" fill="#FFFFFF"/>
-    <circle cx="240" cy="80" r="1.2" fill="#C9D1D9"/>
-    <circle cx="410" cy="60" r="1.3" fill="#FFFFFF"/>
-    <circle cx="540" cy="95" r="1.2" fill="#C9D1D9"/>
-    <circle cx="690" cy="75" r="1.3" fill="#FFFFFF"/>
-    <circle cx="840" cy="90" r="1.2" fill="#C9D1D9"/>
-  </g>
-
   <!-- BOTTOM INCOMPLETE FADE BORDER -->
   <rect x="140" y="252" width="720" height="2" fill="url(#bottomFade)" opacity="0.9"/>
 
