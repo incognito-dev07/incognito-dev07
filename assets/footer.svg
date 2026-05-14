@@ -1,10 +1,108 @@
 <svg width="100%" height="120" viewBox="0 0 1000 120" xmlns="http://www.w3.org/2000/svg">
+
   <defs>
-    <linearGradient id="grad2" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#145fc3"/>
-      <stop offset="100%" stop-color="#0B1F3A"/>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0C0E12"/>
+      <stop offset="50%" stop-color="#12161C"/>
+      <stop offset="100%" stop-color="#0B0D10"/>
     </linearGradient>
+
+    <linearGradient id="platinum" x1="0%" y1="0%" x2="100%">
+      <stop offset="0%" stop-color="#D6DCE2"/>
+      <stop offset="50%" stop-color="#F2F4F7"/>
+      <stop offset="100%" stop-color="#B9C2CC"/>
+    </linearGradient>
+
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="1.3" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <pattern id="grid" width="45" height="45" patternUnits="userSpaceOnUse">
+      <path d="M45 0 L0 0 0 45" stroke="#FFFFFF05" fill="none"/>
+    </pattern>
+
+    <pattern id="mesh" width="90" height="90" patternUnits="userSpaceOnUse">
+      <path d="M0 0 L90 0 L90 90 L0 90 Z" fill="none" stroke="#FFFFFF14" stroke-width="1"/>
+      <path d="M0 45 L90 45" stroke="#FFFFFF10"/>
+      <path d="M45 0 L45 90" stroke="#FFFFFF10"/>
+      <circle cx="45" cy="45" r="1.3" fill="#FFFFFF20"/>
+    </pattern>
+
+    <filter id="noise">
+      <feTurbulence type="fractalNoise" baseFrequency="0.7" numOctaves="2"/>
+      <feColorMatrix type="matrix"
+        values="0 0 0 0 0
+                0 0 0 0 0
+                0 0 0 0 0
+                0 0 0 .02 0"/>
+    </filter>
+
+    <!-- Top fade border -->
+    <linearGradient id="topFade" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#D6DCE2" stop-opacity="0"/>
+      <stop offset="20%" stop-color="#D6DCE2" stop-opacity="0.4"/>
+      <stop offset="50%" stop-color="#D6DCE2" stop-opacity="0.7"/>
+      <stop offset="80%" stop-color="#D6DCE2" stop-opacity="0.4"/>
+      <stop offset="100%" stop-color="#D6DCE2" stop-opacity="0"/>
+    </linearGradient>
+
+    <style>
+      @keyframes twinkle1 { 0%, 100% { opacity: 0.2; } 50% { opacity: 1; } }
+      @keyframes twinkle2 { 0%, 100% { opacity: 1; } 50% { opacity: 0.15; } }
+      @keyframes twinkle3 { 0%, 100% { opacity: 0.5; } 30% { opacity: 1; } 70% { opacity: 0.1; } }
+      .star1 { animation: twinkle1 3.5s infinite ease-in-out; }
+      .star2 { animation: twinkle2 4.2s infinite ease-in-out; }
+      .star3 { animation: twinkle3 2.8s infinite ease-in-out; }
+    </style>
   </defs>
-  <rect width="100%" height="100%" fill="url(#grad2)" />
-  <path d="M1000,50 C750,0 250,100 0,50 L0,0 L1000,0 Z" fill="#0A1930"/>
+
+  <!-- Background -->
+  <rect width="100%" height="100%" fill="url(#bg)"/>
+  <rect width="100%" height="100%" fill="url(#mesh)" opacity="0.55"/>
+  <rect width="100%" height="100%" fill="url(#grid)" opacity="0.5"/>
+  <rect width="100%" height="100%" filter="url(#noise)" opacity="0.25"/>
+
+  <!-- Diagonal sweep -->
+  <rect x="-300" y="0" width="220" height="120"
+        fill="#FFFFFF"
+        opacity="0.03"
+        transform="skewX(-20)">
+    <animate attributeName="x" from="-300" to="1200" dur="7s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- CORNERS (clean stroke, no fill) -->
+  <path d="M30 15 L30 8 L46 8" stroke="#D6DCE2" stroke-width="1.2" fill="none"/>
+  <path d="M970 15 L970 8 L954 8" stroke="#D6DCE2" stroke-width="1.2" fill="none"/>
+  <path d="M30 105 L30 112 L46 112" stroke="#D6DCE2" stroke-width="1.2" fill="none"/>
+  <path d="M970 105 L970 112 L954 112" stroke="#D6DCE2" stroke-width="1.2" fill="none"/>
+
+  <!-- Footer Text -->
+  <text x="50%" y="68"
+        text-anchor="middle"
+        font-size="16"
+        font-weight="700"
+        letter-spacing="4"
+        fill="#AEB7C2"
+        font-family="Segoe UI, Inter, Arial, sans-serif">
+    BUILDING THE MODERN WEB, ONE COMPONENT AT A TIME
+  </text>
+
+  <!-- TOP FADE BORDER (instead of bottom) -->
+  <rect x="140" y="6" width="720" height="2" fill="url(#topFade)" opacity="0.9"/>
+
+  <!-- TWINKLING STARS -->
+  <circle class="star1" cx="80" cy="35" r="1.2" fill="#FFFFFF" opacity="0.6"/>
+  <circle class="star2" cx="200" cy="15" r="0.9" fill="#FFFFFF" opacity="0.4"/>
+  <circle class="star3" cx="350" cy="50" r="1.4" fill="#FFFFFF" opacity="0.7"/>
+  <circle class="star1" cx="500" cy="25" r="1" fill="#FFFFFF" opacity="0.5"/>
+  <circle class="star2" cx="650" cy="45" r="1.3" fill="#FFFFFF" opacity="0.6"/>
+  <circle class="star3" cx="800" cy="20" r="0.8" fill="#FFFFFF" opacity="0.4"/>
+  <circle class="star1" cx="920" cy="55" r="1.1" fill="#FFFFFF" opacity="0.5"/>
+  <circle class="star2" cx="150" cy="85" r="0.7" fill="#FFFFFF" opacity="0.3"/>
+  <circle class="star3" cx="700" cy="95" r="0.9" fill="#FFFFFF" opacity="0.4"/>
+
 </svg>
