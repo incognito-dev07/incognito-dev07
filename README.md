@@ -26,7 +26,7 @@
   <img src="https://static.wikia.nocookie.net/houkai-star-rail/images/5/57/Sticker_PPG_26_Sparxie_02.png/revision/latest?cb=20260213044756" width="75px" align="center">
   <img src="https://static.wikia.nocookie.net/houkai-star-rail/images/7/74/Sticker_PPG_26_Sparxie_01.png/revision/latest?cb=20260213044756" width="75px" align="center"> 
   <img src="https://static.wikia.nocookie.net/houkai-star-rail/images/9/96/Sticker_PPG_26_Sparxie_04.png/revision/latest?cb=20260213044756" width="75px" align="center">
-  <img src="https://static.wikia.nocookie.net/houkai-star-rail/images/3/35/Sticker_PPG_17_Moze_03.png/revision/latest?cb=20241023134756" width="75px" align="center">
+  <img src="https://static.wikia.nocookie.net/houkai-star-rail/images/9/9b/Sticker_PPG_20_Aglaea_04.png/revision/latest?cb=20250226165630" width="75px" align="center">
   <img src="https://static.wikia.nocookie.net/houkai-star-rail/images/3/3b/Sticker_PPG_15_Firefly_01.png/revision/latest?cb=20240802020558" width="75px" align="center">
   <img src="https://static.wikia.nocookie.net/houkai-star-rail/images/c/c0/Sticker_PPG_15_Firefly_02.png/revision/latest?cb=20240802020609" width="75px" align="center">
   <img src="https://static.wikia.nocookie.net/houkai-star-rail/images/a/ac/Sticker_PPG_15_Firefly_03.png/revision/latest?cb=20240802020619" width="75px" align="center">
@@ -67,12 +67,13 @@
 
 <div align="center">
 
-<table><tr><td>
-  <h4>𝐏𝐑𝐎𝐅𝐈𝐋𝐄 <br> 𝐕𝐈𝐄𝐖𝐒</h4>
+<table><tr><td width="120" align="center">
+  <img src="https://static.wikia.nocookie.net/houkai-star-rail/images/3/35/Sticker_PPG_17_Moze_03.png/revision/latest?cb=20241023134756" width="75px" align="center">
 </td>
 <td width="480" align="center">
   
   ![`incognito-dev07`'s GitHub count](https://count.getloli.com/get/@incognito-dev07.github.readme)
+  
 </td></tr></table>
 
 </div>
