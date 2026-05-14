@@ -68,7 +68,7 @@
 <div align="center">
 
 <table><tr><td>
-  <h4>Profile Views</h4>
+  <h4>𝐏𝐑𝐎𝐅𝐈𝐋𝐄 <br> 𝐕𝐈𝐄𝐖𝐒</h4>
 </td>
 <td width="480" align="center">
   
