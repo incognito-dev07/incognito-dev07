@@ -9,7 +9,7 @@
 <br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Monoton&size=50&duration=1&pause=999999&color=afb6bc&center=true&vCenter=true&width=800&lines=%3C%2F%3E" />
+  <img src="https://readme-typing-svg.demolab.com?font=Monoton&size=50&duration=1&pause=999999&color=afb6bc&center=true&vCenter=&width=800&lines=%3C%2F%3E" />
 </div>
 
 <br>
