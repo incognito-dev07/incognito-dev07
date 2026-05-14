@@ -63,15 +63,22 @@
   <img src="https://raw.githubusercontent.com/incognito-dev07/incognito-dev07/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%"/>
+<br>
 
 <div align="center">
 
-![`incognito-dev07`'s GitHub count](https://count.getloli.com/get/@incognito-dev07.github.readme)
+<table><tr><td>
+  <h4>Profile Views</h4>
+</td>
+<td width="480" align="center">
+  
+  ![`incognito-dev07`'s GitHub count](https://count.getloli.com/get/@incognito-dev07.github.readme)
+</td></tr></table>
 
 </div>
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%"/>
+
 
 <div align="center">
   <img src="assets/footer.svg" />
