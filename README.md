@@ -76,7 +76,3 @@
 <div align="center">
   <img src="assets/footer.svg" />
 </div>
-
-<div align="center">
-  <b>⚡ 𝐁𝐮𝐢𝐥𝐝𝐢𝐧𝐠 𝐭𝐡𝐞 𝐦𝐨𝐝𝐞𝐫𝐧 𝐰𝐞𝐛, 𝐨𝐧𝐞 𝐜𝐨𝐦𝐩𝐨𝐧𝐞𝐧𝐭 𝐚𝐭 𝐚 𝐭𝐢𝐦𝐞.</b>
-</div>
