@@ -26,7 +26,7 @@
   <img src="https://static.wikia.nocookie.net/houkai-star-rail/images/5/57/Sticker_PPG_26_Sparxie_02.png/revision/latest?cb=20260213044756" width="75px" align="center">
   <img src="https://static.wikia.nocookie.net/houkai-star-rail/images/7/74/Sticker_PPG_26_Sparxie_01.png/revision/latest?cb=20260213044756" width="75px" align="center"> 
   <img src="https://static.wikia.nocookie.net/houkai-star-rail/images/9/96/Sticker_PPG_26_Sparxie_04.png/revision/latest?cb=20260213044756" width="75px" align="center">
-  <img src="https://static.wikia.nocookie.net/houkai-star-rail/images/3/35/Sticker_PPG_17_Moze_03.png/revision/latest?cb=20241023134756" width="75px" align="center">
+  <img src="https://static.wikia.nocookie.net/houkai-star-rail/images/9/9b/Sticker_PPG_20_Aglaea_04.png/revision/latest?cb=20250226165630" width="75px" align="center">
   <img src="https://static.wikia.nocookie.net/houkai-star-rail/images/3/3b/Sticker_PPG_15_Firefly_01.png/revision/latest?cb=20240802020558" width="75px" align="center">
   <img src="https://static.wikia.nocookie.net/houkai-star-rail/images/c/c0/Sticker_PPG_15_Firefly_02.png/revision/latest?cb=20240802020609" width="75px" align="center">
   <img src="https://static.wikia.nocookie.net/houkai-star-rail/images/a/ac/Sticker_PPG_15_Firefly_03.png/revision/latest?cb=20240802020619" width="75px" align="center">
@@ -63,15 +63,23 @@
   <img src="https://raw.githubusercontent.com/incognito-dev07/incognito-dev07/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%"/>
+<br>
 
 <div align="center">
 
-![`incognito-dev07`'s GitHub count](https://count.getloli.com/get/@incognito-dev07.github.readme)
+<table><tr><td width="120" align="center">
+  <img src="https://static.wikia.nocookie.net/houkai-star-rail/images/3/35/Sticker_PPG_17_Moze_03.png/revision/latest?cb=20241023134756" width="75px" align="center">
+</td>
+<td width="480" align="center">
+  
+  ![`incognito-dev07`'s GitHub count](https://count.getloli.com/get/@incognito-dev07.github.readme)
+  
+</td></tr></table>
 
 </div>
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%"/>
+
 
 <div align="center">
   <img src="assets/footer.svg" />
