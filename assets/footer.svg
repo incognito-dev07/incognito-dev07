@@ -83,7 +83,7 @@
   <!-- Footer Text -->
   <text x="50%" y="68"
         text-anchor="middle"
-        font-size="16"
+        font-size="20"
         font-weight="900"
         letter-spacing="4"
         fill="#AEB7C2"
