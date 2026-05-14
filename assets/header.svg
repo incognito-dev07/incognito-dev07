@@ -41,8 +41,8 @@
                 0 0 0 .02 0"/>
     </filter>
 
-    <!-- Bottom fade border -->
-    <linearGradient id="bottomFade" x1="0%" y1="0%" x2="100%" y2="0%">
+    <!-- Top fade border -->
+    <linearGradient id="topFade" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#D6DCE2" stop-opacity="0"/>
       <stop offset="20%" stop-color="#D6DCE2" stop-opacity="0.4"/>
       <stop offset="50%" stop-color="#D6DCE2" stop-opacity="0.7"/>
@@ -115,8 +115,8 @@
     STUDYING SOFTWARE ENGINEERING AT FUTA 
   </text>
 
-  <!-- Bottom fade border -->
-  <rect x="140" y="252" width="720" height="2" fill="url(#bottomFade)" opacity="0.9"/>
+  <!-- Top fade border -->
+  <rect x="140" y="6" width="720" height="2" fill="url(#topFade)" opacity="0.9"/>
 
   <!-- Twinking stars -->
   <circle class="star1" cx="120" cy="45" r="1.2" fill="#FFFFFF" opacity="0.6"/>
