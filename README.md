@@ -55,6 +55,42 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%"/>
 
+<div>
+
+  ## 📦 Featured Project — incog-validate
+
+> **Type-safe validation library with zero dependencies** — validate emails, phones, URLs, passwords, schemas, and more.
+
+````bash
+npm install @incogdev/validate
+````
+
+[![npm version](https://img.shields.io/npm/v/@incogdev/validate.svg?style=flat-square)](https://www.npmjs.com/package/@incogdev/validate)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
+[![Platform](https://img.shields.io/badge/platform-Node.js%20%7C%20Browser%20%7C%20Termux-lightgrey?style=flat-square)](https://www.npmjs.com/package/@incogdev/validate)
+
+**13 validation rules · 9 advanced features**
+
+| Category | Highlights |
+|:---|:---|
+| **Rules** | Email, phone, URL, strong password, credit card, IP, postal code |
+| **Chainable** | required, email, minLength, maxLength, isNumber, strongPassword |
+| **Schema** | Object validation with type checking |
+| **Async** | Database checks and custom async rules |
+| **Conditional** | Dynamic validation with if/unless |
+| **Nested** | Deeply nested object validation |
+| **Pipeline** | Transform values before validation |
+| **Batch** | Validate multiple fields at once |
+| **Benchmark** | Performance testing |
+
+[![GitHub stars](https://img.shields.io/github/stars/incognito-dev07/incog-validate?style=flat-square&color=ec4899)](https://github.com/incognito-dev07/incog-validate)
+[![TypeScript](https://img.shields.io/badge/TypeScript-Ready-3178c6?style=flat-square)](https://www.typescriptlang.org/)
+[![Zero Dependencies](https://img.shields.io/badge/dependencies-0-success?style=flat-square)](https://www.npmjs.com/package/@incogdev/validate)
+  
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%"/>
+
 <div align="center">
 <h3>𝐂𝐎𝐍𝐓𝐑𝐈𝐁𝐔𝐓𝐈𝐎𝐍 𝐓𝐑𝐀𝐈𝐋</h3>
 </div>
