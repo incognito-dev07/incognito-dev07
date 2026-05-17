@@ -57,9 +57,9 @@
 
 <div>
 
-  ## 📦 Featured Project — incog-validate
+## 📦 Featured Project — incog-validate
 
-> **Type-safe validation library with zero dependencies** — validate emails, phones, URLs, passwords, schemas, and more.
+> **Fast, type-safe validation library with async, conditional, nested schema, pipeline, batch, and benchmark support. Zero dependencies. Works in Node.js and browser.**
 
 ````bash
 npm install @incogdev/validate
@@ -67,7 +67,8 @@ npm install @incogdev/validate
 
 [![npm version](https://img.shields.io/npm/v/@incogdev/validate.svg?style=flat-square)](https://www.npmjs.com/package/@incogdev/validate)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
-[![Platform](https://img.shields.io/badge/platform-Node.js%20%7C%20Browser%20%7C%20Termux-lightgrey?style=flat-square)](https://www.npmjs.com/package/@incogdev/validate)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![Browser](https://img.shields.io/badge/Browser-FFCA28?style=flat-square&logo=google-chrome&logoColor=black)](https://www.npmjs.com/package/@incogdev/validate)
 
 **13 validation rules · 9 advanced features**
 
@@ -83,9 +84,7 @@ npm install @incogdev/validate
 | **Batch** | Validate multiple fields at once |
 | **Benchmark** | Performance testing |
 
-[![GitHub stars](https://img.shields.io/github/stars/incognito-dev07/incog-validate?style=flat-square&color=ec4899)](https://github.com/incognito-dev07/incog-validate)
-[![TypeScript](https://img.shields.io/badge/TypeScript-Ready-3178c6?style=flat-square)](https://www.typescriptlang.org/)
-[![Zero Dependencies](https://img.shields.io/badge/dependencies-0-success?style=flat-square)](https://www.npmjs.com/package/@incogdev/validate)
+**Stars:** 13 · [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/) · [![MIT License](https://img.shields.io/badge/License-MIT-ec4899?style=flat-square)](https://opensource.org/licenses/MIT)
   
 </div>
 
