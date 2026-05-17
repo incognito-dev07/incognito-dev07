@@ -57,7 +57,7 @@
 
 <div>
 
-## 📦 Featured Project — incog-validate
+## Featured Project: incog-validate
 
 > **Fast, type-safe validation library with async, conditional, nested schema, pipeline, batch, and benchmark support. Zero dependencies. Works in Node.js and browser.**
 
@@ -70,21 +70,8 @@ npm install @incogdev/validate
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org/)
 [![Browser](https://img.shields.io/badge/Browser-FFCA28?style=flat-square&logo=google-chrome&logoColor=black)](https://www.npmjs.com/package/@incogdev/validate)
 
-**13 validation rules · 9 advanced features**
-
-| Category | Highlights |
-|:---|:---|
-| **Rules** | Email, phone, URL, strong password, credit card, IP, postal code |
-| **Chainable** | required, email, minLength, maxLength, isNumber, strongPassword |
-| **Schema** | Object validation with type checking |
-| **Async** | Database checks and custom async rules |
-| **Conditional** | Dynamic validation with if/unless |
-| **Nested** | Deeply nested object validation |
-| **Pipeline** | Transform values before validation |
-| **Batch** | Validate multiple fields at once |
-| **Benchmark** | Performance testing |
-
-**Stars:** 13 · [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/) · [![MIT License](https://img.shields.io/badge/License-MIT-ec4899?style=flat-square)](https://opensource.org/licenses/MIT)
+[![GitHub stars](https://img.shields.io/github/stars/incognito-dev07/incog-validate?style=flat-square&color=ec4899)](https://github.com/incognito-dev07/incog-validate)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
   
 </div>
 
