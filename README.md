@@ -59,7 +59,7 @@
 
 <h3 align="center"> 
   
-  Featured Project — [incog-validate](https://github.com/incognito-dev07/incog-validate) </h3>
+  𝐅𝐄𝐀𝐓𝐔𝐑𝐄𝐃 𝐏𝐑𝐎𝐉𝐄𝐂𝐓 — [incog-validate](https://github.com/incognito-dev07/incog-validate) </h3>
 
 > **Fast, type-safe validation library with async, conditional, nested schema, pipeline, batch, and benchmark support. Zero dependencies. Works in Node.js and browser.**
 
@@ -68,7 +68,7 @@ npm install @incogdev/validate
 ````
 
 [![npm version](https://img.shields.io/npm/v/@incogdev/validate.svg?style=flat-square)](https://www.npmjs.com/package/@incogdev/validate)
-[![License: MIT](https://img.shields.io/badge/License-MIT-2a2a35?style=flat-square)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://img.shields.io/badge/License-MIT-3178C6?style=flat-square)](https://opensource.org/licenses/MIT)
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org/)
 [![Browser](https://img.shields.io/badge/Browser-4c1d95?style=flat-square&logo=google-chrome&logoColor=white)](https://www.npmjs.com/package/@incogdev/validate)
 [![GitHub stars](https://img.shields.io/github/stars/incognito-dev07/incog-validate?style=flat-square&color=eab308)](https://github.com/incognito-dev07/incog-validate)
