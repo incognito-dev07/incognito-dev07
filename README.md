@@ -57,7 +57,7 @@
 
 <div>
 
-## Featured Project: incog-validate
+## Featured Project — JS/TS Validator
 
 > **Fast, type-safe validation library with async, conditional, nested schema, pipeline, batch, and benchmark support. Zero dependencies. Works in Node.js and browser.**
 
@@ -69,7 +69,6 @@ npm install @incogdev/validate
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org/)
 [![Browser](https://img.shields.io/badge/Browser-FFCA28?style=flat-square&logo=google-chrome&logoColor=black)](https://www.npmjs.com/package/@incogdev/validate)
-
 [![GitHub stars](https://img.shields.io/github/stars/incognito-dev07/incog-validate?style=flat-square&color=ec4899)](https://github.com/incognito-dev07/incog-validate)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
   
