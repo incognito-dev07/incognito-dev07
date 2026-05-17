@@ -57,7 +57,7 @@
 
 <div>
 
-## Featured Project — JS/TS Validator
+## Featured Project — [incog-validate](https://github.com/incognito-dev07/incog-validate)
 
 > **Fast, type-safe validation library with async, conditional, nested schema, pipeline, batch, and benchmark support. Zero dependencies. Works in Node.js and browser.**
 
@@ -65,12 +65,12 @@
 npm install @incogdev/validate
 ````
 
-[![npm version](https://img.shields.io/npm/v/@incogdev/validate.svg?style=flat-square)](https://www.npmjs.com/package/@incogdev/validate)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org/)
-[![Browser](https://img.shields.io/badge/Browser-FFCA28?style=flat-square&logo=google-chrome&logoColor=black)](https://www.npmjs.com/package/@incogdev/validate)
-[![GitHub stars](https://img.shields.io/github/stars/incognito-dev07/incog-validate?style=flat-square&color=ec4899)](https://github.com/incognito-dev07/incog-validate)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![npm version](https://img.shields.io/npm/v/@incogdev/validate.svg?style=flat-square&color=6b7280)](https://www.npmjs.com/package/@incogdev/validate)
+[![License: MIT](https://img.shields.io/badge/License-MIT-6b7280?style=flat-square)](https://opensource.org/licenses/MIT)
+[![Node.js](https://img.shields.io/badge/Node.js-6b7280?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![Browser](https://img.shields.io/badge/Browser-6b7280?style=flat-square&logo=google-chrome&logoColor=white)](https://www.npmjs.com/package/@incogdev/validate)
+[![GitHub stars](https://img.shields.io/github/stars/incognito-dev07/incog-validate?style=flat-square&color=6b7280)](https://github.com/incognito-dev07/incog-validate)
+[![TypeScript](https://img.shields.io/badge/TypeScript-6b7280?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
   
 </div>
 
