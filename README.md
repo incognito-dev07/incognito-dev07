@@ -55,29 +55,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%"/>
 
-<div>
-
-<h3 align="center"> 
-  
-  𝐅𝐄𝐀𝐓𝐔𝐑𝐄𝐃 𝐏𝐑𝐎𝐉𝐄𝐂𝐓 — [incog-validate](https://github.com/incognito-dev07/incog-validate) </h3>
-
-> **Fast, type-safe validation library with async, conditional, nested schema, pipeline, batch, and benchmark support. Zero dependencies. Works in Node.js and browser.**
-
-````bash
-npm install @incogdev/validate
-````
-
-[![npm version](https://img.shields.io/npm/v/@incogdev/validate.svg?style=flat-square)](https://www.npmjs.com/package/@incogdev/validate)
-[![License: MIT](https://img.shields.io/badge/License-MIT-3178C6?style=flat-square)](https://opensource.org/licenses/MIT)
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org/)
-[![Browser](https://img.shields.io/badge/Browser-4c1d95?style=flat-square&logo=google-chrome&logoColor=white)](https://www.npmjs.com/package/@incogdev/validate)
-[![GitHub stars](https://img.shields.io/github/stars/incognito-dev07/incog-validate?style=flat-square&color=eab308)](https://github.com/incognito-dev07/incog-validate)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-  
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%"/>
-
 <div align="center">
 <h3>𝐂𝐎𝐍𝐓𝐑𝐈𝐁𝐔𝐓𝐈𝐎𝐍 𝐓𝐑𝐀𝐈𝐋</h3>
 </div>
