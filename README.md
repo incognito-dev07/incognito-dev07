@@ -44,7 +44,7 @@
 <table><tr><td>
 <img src="https://github-readme-stats-fast.vercel.app/api?username=incognito-dev07&show_icons=true&count_private=true&title_color=ec4899&text_color=ffffff&icon_color=a855f7&bg_color=0d1117&hide_border=true&card_width=320" height="175"/>
 </td><td>
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=incognito-dev07&langs_count=8&layout=compact&title_color=ec4899&text_color=ffffff&icon_color=a855f7&bg_color=0d1117&hide_border=true&custom_title=Top%20Languages&card_width=320" height="175"/>
+<img src = "https://github-readme-stats-fast.vercel.app/api/top-langs/?username=incognito-dev07&langs_count=8&layout=compact&title_color=ec4899&text_color=ffffff&icon_color=a855f7&bg_color=0d1117&hide_border=true&custom_title=Top%20Languages&card_width=320&hide=html,css"/>
 </td></tr></table>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=incognito-dev07&theme=dark&background=0d1117&ring=ec4899&fire=a855f7&currStreakLabel=ec4899&sideLabels=a855f7&currStreakNum=ffffff&sideNums=ffffff&dates=666666&hide_border=true&card_width=660" height="175"/>
