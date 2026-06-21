@@ -14,25 +14,6 @@
 
 <br>
 
-<div align="center">
-  
-  <img src="https://static.wikia.nocookie.net/houkai-star-rail/images/f/f1/Sticker_PPG_23_Phainon_01.png/revision/latest?cb=20250702051616" width="75px" align="center">
-  <img src="https://static.wikia.nocookie.net/houkai-star-rail/images/7/72/Sticker_PPG_23_Phainon_02.png/revision/latest?cb=20250702051616" width="75px" align="center">
-  <img src="https://static.wikia.nocookie.net/houkai-star-rail/images/f/fb/Sticker_PPG_23_Phainon_04.png/revision/latest?cb=20250702051617" width="75px" align="center">
-  <img src="https://static.wikia.nocookie.net/houkai-star-rail/images/f/f3/Sticker_PPG_20_Aglaea_03.png/revision/latest?cb=20250117052436" width="75px" align="center">
-  <img src="https://static.wikia.nocookie.net/houkai-star-rail/images/d/df/Sticker_PPG_24_Evernight_04.png/revision/latest?cb=20250926184809" width="75px" align="center">
-  <img src="https://static.wikia.nocookie.net/houkai-star-rail/images/d/d2/Sticker_PPG_24_Evernight_03.png/revision/latest?cb=20250926184841" width="75px" align="center">
-  <img src="https://static.wikia.nocookie.net/houkai-star-rail/images/b/b5/Sticker_PPG_24_Evernight_01.png/revision/latest?cb=20250926184810" width="75px" align="center"> <br>
-  <img src="https://static.wikia.nocookie.net/houkai-star-rail/images/5/57/Sticker_PPG_26_Sparxie_02.png/revision/latest?cb=20260213044756" width="75px" align="center">
-  <img src="https://static.wikia.nocookie.net/houkai-star-rail/images/7/74/Sticker_PPG_26_Sparxie_01.png/revision/latest?cb=20260213044756" width="75px" align="center"> 
-  <img src="https://static.wikia.nocookie.net/houkai-star-rail/images/9/96/Sticker_PPG_26_Sparxie_04.png/revision/latest?cb=20260213044756" width="75px" align="center">
-  <img src="https://static.wikia.nocookie.net/houkai-star-rail/images/9/9b/Sticker_PPG_20_Aglaea_04.png/revision/latest?cb=20250226165630" width="75px" align="center">
-  <img src="https://static.wikia.nocookie.net/houkai-star-rail/images/3/3b/Sticker_PPG_15_Firefly_01.png/revision/latest?cb=20240802020558" width="75px" align="center">
-  <img src="https://static.wikia.nocookie.net/houkai-star-rail/images/c/c0/Sticker_PPG_15_Firefly_02.png/revision/latest?cb=20240802020609" width="75px" align="center">
-  <img src="https://static.wikia.nocookie.net/houkai-star-rail/images/a/ac/Sticker_PPG_15_Firefly_03.png/revision/latest?cb=20240802020619" width="75px" align="center">
-
-</div> <br>
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%"/>
 
 <div align="center">
@@ -48,8 +29,6 @@
 </td></tr></table>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=incognito-dev07&theme=dark&background=0d1117&ring=ec4899&fire=a855f7&currStreakLabel=ec4899&sideLabels=a855f7&currStreakNum=ffffff&sideNums=ffffff&dates=666666&hide_border=true&card_width=660" height="175"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=incognito-dev07&bg_color=0d1117&color=a855f7&line=ec4899&point=ffffff&area=true&area_color=ec4899&hide_border=true&custom_title=Contribution%20Graph" width="100%"/>
 
 </div>
 
