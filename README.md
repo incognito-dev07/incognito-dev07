@@ -14,7 +14,7 @@
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:afb6bc40,100:afb6bc40&height=2" width="100%"/>
 
 <div align="center">
 <h3>𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐄𝐑 𝐌𝐄𝐓𝐑𝐈𝐂𝐒</h3>
@@ -32,7 +32,7 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:afb6bc40,100:afb6bc40&height=2" width="100%"/>
 
 <div align="center">
 <h3>𝐂𝐎𝐍𝐓𝐑𝐈𝐁𝐔𝐓𝐈𝐎𝐍 𝐓𝐑𝐀𝐈𝐋</h3>
@@ -57,8 +57,7 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:afb6bc40,100:afb6bc40&height=2" width="100%"/>
 
 <div align="center">
   <img src="assets/footer.svg" />
