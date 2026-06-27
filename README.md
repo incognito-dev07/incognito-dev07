@@ -23,7 +23,7 @@
 <div align="center">
 
 <table><tr>
-<td><img src="https://github-readme-stats-fast.vercel.app/api?username=incognito-dev07&show_icons=true&count_private=true&title_color=ec4899&text_color=ffffff&icon_color=a855f7&bg_color=0d1117&hide_border=true&card_width=320&hide=contribs" height="175"/></td>
+<td><img src="https://github-readme-stats-fast.vercel.app/api?username=incognito-dev07&show_icons=true&count_private=true&title_color=ec4899&text_color=ffffff&icon_color=a855f7&bg_color=0d1117&hide_border=true&card_width=350" height="175"/></td>
 <td align="center">
 <table><tr>
 <td><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="30"/></td>
