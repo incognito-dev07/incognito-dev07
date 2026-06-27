@@ -46,18 +46,6 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=aeb7c260&height=2" width="100%"/>
-
-<div align="center">
-<h3>𝐂𝐎𝐍𝐓𝐑𝐈𝐁𝐔𝐓𝐈𝐎𝐍 𝐓𝐑𝐀𝐈𝐋</h3>
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/incognito-dev07/incognito-dev07/output/github-contribution-grid-snake-dark.svg" />
-</div>
-
-<br>
-
 <div align="center">
 
 <table><tr><td width="120" align="center">
@@ -65,8 +53,8 @@
 </td>
 <td width="480" align="center">
   
-  ![`incognito-dev07`'s GitHub count](https://count.getloli.com/get/@incognito-dev07.github.readme)
-  
+![`incognito-dev07`'s GitHub count](https://count.getloli.com/get/@incognito-dev07.github.readme)  
+
 </td></tr></table>
 
 </div>
