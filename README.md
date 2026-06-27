@@ -29,23 +29,22 @@
 </td></tr></table>
 
 <table><tr>
-<td><img src="https://github-readme-streak-stats.herokuapp.com/?user=incognito-dev07&theme=dark&background=0d1117&ring=ec4899&fire=a855f7&currStreakLabel=ec4899&sideLabels=a855f7&currStreakNum=ffffff&sideNums=ffffff&dates=666666&hide_border=true&card_width=450" height="175"/></td>
+<td><img src="https://github-readme-streak-stats.herokuapp.com/?user=incognito-dev07&theme=dark&background=0d1117&ring=ec4899&fire=a855f7&currStreakLabel=ec4899&sideLabels=a855f7&currStreakNum=ffffff&sideNums=ffffff&dates=666666&hide_border=true&card_width=450" height="150"/></td>
 <td align="center">
 <table><tr>
-<td><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="40"/></td>
-<td><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="40"/></td>
-<td><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40"/></td>
-<td><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="40"/></td>
-</tr><tr>
-<td><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="40"/></td>
-<td><img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="40"/></td>
-<td><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40"/></td>
-<td><img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" width="40"/></td>
+<td><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="30"/></td>
+<td><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="30"/></td>
+<td><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="30"/></td>
+<td><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="30"/></td>
+<td><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="30"/></td>
+<td><img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="30"/></td>
 </tr><tr>   
-<td><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="40"/></td>
-<td><img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="40"/></td>
-<td><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="40"/></td>
-<td><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="40"/></td>
+<td><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="30"/></td>
+<td><img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" width="30"/></td>
+<td><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="30"/></td>
+<td><img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="30"/></td>
+<td><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="30"/></td>
+<td><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="30"/></td>
 </tr></table>
 </td>
 </tr></table>
