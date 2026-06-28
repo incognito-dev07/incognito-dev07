@@ -49,9 +49,9 @@
 <div align="center">
 
 <table><tr><td width="120" align="center">
-  <img src="https://static.wikia.nocookie.net/houkai-star-rail/images/7/72/Sticker_PPG_23_Phainon_02.png/revision/latest?cb=20250702051616" width="100px" align="center">
+  <img src="https://static.wikia.nocookie.net/houkai-star-rail/images/7/72/Sticker_PPG_23_Phainon_02.png/revision/latest?cb=20250702051616" width="90px" align="center">
 </td>
-<td width="450" align="center">
+<td width="480" align="center">
   
 ![`incognito-dev07`'s GitHub count](https://count.getloli.com/get/@incognito-dev07.github.readme)  
 
