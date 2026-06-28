@@ -49,7 +49,7 @@
 <div align="center">
 
 <table><tr><td width="120" align="center">
-  <img src="https://static.wikia.nocookie.net/houkai-star-rail/images/3/35/Sticker_PPG_17_Moze_03.png/revision/latest?cb=20241023134756" width="75px" align="center">
+  <img src="https://static.wikia.nocookie.net/houkai-star-rail/images/7/72/Sticker_PPG_23_Phainon_02.png/revision/latest?cb=20250702051616" width="75px" align="center">
 </td>
 <td width="480" align="center">
   
