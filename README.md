@@ -46,9 +46,9 @@
 
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/incognito-dev07/incognito-dev07@output/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Calendar" />
-</div>
+</div> -->
 
 <div align="center">
 
