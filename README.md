@@ -47,6 +47,10 @@
 </div>
 
 <div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/incognito-dev07/incognito-dev07@output/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Calendar" />
+</div>
+
+<div align="center">
 
 <table><tr><td width="150" align="center">
   <img src="https://static.wikia.nocookie.net/houkai-star-rail/images/7/72/Sticker_PPG_23_Phainon_02.png/revision/latest?cb=20250702051616" width="90px" align="center">
