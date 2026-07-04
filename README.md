@@ -42,7 +42,7 @@
 
 <div align="center">
   
-[![GitHub](https://img.shields.io/badge/GitHub-1f1f2e?style=for-the-badge&logo=github&logoColor=60a5fa)](https://github.com/incognito-dev07)
+[![Discord](https://img.shields.io/badge/Discord-1f1f2e?style=for-the-badge&logo=discord&logoColor=60a5fa)](https://discord.gg/4K3aBSNB)
 [![Gmail](https://img.shields.io/badge/Gmail-1f1f2e?style=for-the-badge&logo=gmail&logoColor=60a5fa)](mailto:osasanolusola2007@gmail.com)
 [![YouTube](https://img.shields.io/badge/YouTube-1f1f2e?style=for-the-badge&logo=youtube&logoColor=60a5fa)](https://youtube.com/@incognito-dev07)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-1f1f2e?style=for-the-badge&logo=whatsapp&logoColor=60a5fa)](https://wa.me/2349065168872)
