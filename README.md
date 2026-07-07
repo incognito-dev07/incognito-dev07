@@ -66,6 +66,22 @@
 
 </div>
 
+```yaml
+name: Incognito Dev
+role: Software Engineering Student | Full-Stack Developer | Python Enthusiast
+
+focus:
+  - Backend Development
+  - Machine Learning Engineering
+  - Mobile App Development
+
+domains:
+  - Web Development & APIs
+  - System Design & Architecture
+  - Scalable Backend Systems
+
+mindset: "Build with purpose. Learn relentlessly. Create what people remember."
+```
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=aeb7c260&height=2" width="100%"/>
 
