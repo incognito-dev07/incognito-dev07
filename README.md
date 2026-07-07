@@ -67,7 +67,7 @@ domains:
   - System Design & Architecture
   - Scalable Backend Systems
 
-mindset: "Build with purpose. Learn relentlessly. Create what people remember."
+mindset: "Build with purpose. Learn relentlessly. Create without limits."
 ```
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=aeb7c260&height=2" width="100%"/>
