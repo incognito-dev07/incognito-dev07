@@ -60,7 +60,7 @@ role: Software Engineering Student | Full-Stack Developer | Python Enthusiast
 focus:
   - Backend Development
   - Machine Learning Engineering
-  - Mobile App Development
+  - Software Engineering 
 
 domains:
   - Web Development & APIs
