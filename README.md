@@ -53,22 +53,19 @@
   <img src="https://cdn.jsdelivr.net/gh/incognito-dev07/incognito-dev07@output/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Calendar" />
 </div> -->
 
-```yaml
-name: Osasan Olusola
-role: Software Engineering Student | Full-Stack Developer | Python Enthusiast
+<div align="center">
 
-focus:
-  - Backend Development
-  - Machine Learning Engineering
-  - Cloud Infrastructure 
+<table><tr><td width="150" align="center">
+  <img src="https://static.wikia.nocookie.net/houkai-star-rail/images/7/72/Sticker_PPG_23_Phainon_02.png/revision/latest?cb=20250702051616" width="90px" align="center">
+</td>
+<td width="450" align="center">
+  
+![`incognito-dev07`'s GitHub count](https://count.getloli.com/get/@incognito-dev07.github.readme)  
 
-domains:
-  - Web Development & APIs
-  - System Design & Architecture
-  - Scalable Backend Systems
+</td></tr></table>
 
-mindset: "Build with purpose. Learn relentlessly. Create without limits."
-```
+</div>
+
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=aeb7c260&height=2" width="100%"/>
 
