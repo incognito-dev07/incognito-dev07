@@ -66,7 +66,6 @@
 
 </div>
 
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=aeb7c260&height=2" width="100%"/>
 
 
