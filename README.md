@@ -18,6 +18,8 @@
   <img src="https://git-hub-insights-virid.vercel.app/api/insight?username=incognito-dev07&theme=github_dark&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true" alt="GitHub Insights" />
 </div>
 
+<br>
+
 <div align="center">
   
 [![Discord](https://img.shields.io/badge/Discord-1f1f2e?style=for-the-badge&logo=discord&logoColor=60a5fa)](https://discord.gg/4K3aBSNB)
@@ -28,18 +30,6 @@
   
 </div>
 
-<div align="center">
-
-<table><tr><td width="150" align="center">
-  <img src="https://static.wikia.nocookie.net/houkai-star-rail/images/7/72/Sticker_PPG_23_Phainon_02.png/revision/latest?cb=20250702051616" width="90px" align="center">
-</td>
-<td width="450" align="center">
-  
-![`incognito-dev07`'s GitHub count](https://count.getloli.com/get/@incognito-dev07.github.readme)  
-
-</td></tr></table>
-
-</div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=aeb7c260&height=2" width="100%"/>
 
