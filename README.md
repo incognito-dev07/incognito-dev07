@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/header.svg" />
+  <img src="header.svg" />
 </div>
 
 <div align="center">
