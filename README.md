@@ -53,6 +53,10 @@
   <img src="https://cdn.jsdelivr.net/gh/incognito-dev07/incognito-dev07@output/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Calendar" />
 </div> -->
 
+<p align="center">
+  <img src="https://git-hub-insights-virid.vercel.app/api/insight?username=incognito-dev07&theme=github_dark&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true" alt="GitHub Insights" />
+</p>
+
 <div align="center">
 
 <table><tr><td width="150" align="center">
