@@ -15,10 +15,8 @@
 
 
 <div align="center">
-  <img src="https://git-hub-insights-virid.vercel.app/api/insight?username=incognito-dev07&theme=github_dark&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true" alt="GitHub Insights" />
-</div>
-
-<br>
+<img src="https://git-hub-insights-virid.vercel.app/api/insight?username=incognito-dev07&theme=github_dark&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true" alt="GitHub Insights" />
+</div> <br>
 
 <div align="center">
   
@@ -30,10 +28,4 @@
   
 </div>
 
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=aeb7c260&height=2" width="100%"/>
-
-
-<div align="center">
-  <img src="assets/footer.svg" />
-</div>
