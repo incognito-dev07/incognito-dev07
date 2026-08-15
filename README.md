@@ -15,29 +15,7 @@
 
 
 <div align="center">
-
-<table><tr>
-<td><img src="https://github-readme-stats-fast.vercel.app/api?username=incognito-dev07&show_icons=true&count_private=true&text_color=D6DCE2&title_color=60a5fa&icon_color=34d399&bg_color=0d1117&hide_border=true&card_width=350" height="175"/></td>
-<td align="center">
-<table><tr>
-<td><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="30"/></td>
-<td><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="30"/></td>
-<td><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="30"/></td>
-<td><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="30"/></td>
-</tr><tr>
-<td><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="30"/></td>
-<td><img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="30"/></td>  
-<td><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="30"/></td>
-<td><img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" width="30"/></td>
-</tr><tr>
-<td><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" width="30"/></td>
-<td><img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="30"/></td>
-<td><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="30"/></td>
-<td><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="30"/></td>
-</tr></table>
-</td>
-</tr></table>
-
+  <img src="https://git-hub-insights-virid.vercel.app/api/insight?username=incognito-dev07&theme=github_dark&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true" alt="GitHub Insights" />
 </div>
 
 <div align="center">
@@ -49,13 +27,6 @@
 [![Telegram](https://img.shields.io/badge/Telegram-1f1f2e?style=for-the-badge&logo=telegram&logoColor=60a5fa)](https://t.me/Incognitodev07)
   
 </div>
-<!-- <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/incognito-dev07/incognito-dev07@output/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Calendar" />
-</div> -->
-
-<p align="center">
-  <img src="https://git-hub-insights-virid.vercel.app/api/insight?username=incognito-dev07&theme=github_dark&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true" alt="GitHub Insights" />
-</p>
 
 <div align="center">
 
