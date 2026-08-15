@@ -1,10 +1,4 @@
-<div align="center">
-  <img src="header.svg" />
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=500&color=D6DCE2&center=true&vCenter=true&width=700&lines=Building+scalable+full-stack+apps+with+TypeScript;Turning+complex+requirements+into+elegant+Node.js+solutions;Open+source+contributor+and+JS+community+enthusiast" />
-</div> <br>
+<div align="center">  <img src="header.svg" /> </div> <br>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=aeb7c260&height=2" width="100%"/>
 
