@@ -13,5 +13,3 @@
 [![Telegram](https://img.shields.io/badge/Telegram-1f1f2e?style=for-the-badge&logo=telegram&logoColor=60a5fa)](https://t.me/Incognitodev07)
   
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=aeb7c260&height=2" width="100%"/>
