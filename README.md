@@ -2,9 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=aeb7c260&height=2" width="100%"/>
 
-<div align="center">
-<img src="https://git-hub-insights-virid.vercel.app/api/insight?username=incognito-dev07" alt="GitHub Insights" />
-</div> <br>
+<p align="center"> <img src="https://github-analytics-qiu5.onrender.com/api?username=incognito-dev07&theme=github_dark" alt="GitHub Analytics" /> </p> <br>
 
 <div align="center">
   
